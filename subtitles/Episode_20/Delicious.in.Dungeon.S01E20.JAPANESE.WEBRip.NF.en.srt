@@ -1,0 +1,1794 @@
+﻿1
+00:00:32,949 --> 00:00:34,826
+DELICIOUS IN DUNGEON
+
+2
+00:01:43,228 --> 00:01:44,979
+I don't recognize this road.
+
+3
+00:01:45,063 --> 00:01:46,523
+This <i>is</i> the way.
+
+4
+00:01:46,606 --> 00:01:47,816
+Are you sure?
+
+5
+00:01:50,235 --> 00:01:52,070
+Pick up the pace! Get a move on!
+
+6
+00:01:52,153 --> 00:01:53,238
+I think we're stuck.
+
+7
+00:01:53,321 --> 00:01:54,614
+Don't push!
+
+8
+00:01:54,697 --> 00:01:56,241
+-Hey!
+-Watch out...
+
+9
+00:02:00,995 --> 00:02:04,082
+This open space
+is where we fought the Red Dragon!
+
+10
+00:02:06,459 --> 00:02:09,963
+You made it all the way here
+on your last expedition?
+
+11
+00:02:10,713 --> 00:02:11,589
+Yeah.
+
+12
+00:02:11,673 --> 00:02:14,843
+For a long time, this spot
+was believed to be the deepest point.
+
+13
+00:02:14,926 --> 00:02:19,055
+But recently, they found a door nearby
+that seems to go even deeper.
+
+14
+00:02:19,556 --> 00:02:22,851
+It's engraved with a design,
+and they think it opens with magic.
+
+15
+00:02:22,934 --> 00:02:26,855
+<i>We came to sketch the design
+for the Lord of the Island, but...</i>
+
+16
+00:02:29,899 --> 00:02:33,403
+<i>You encountered the Red Dragon
+and were forced to retreat.</i>
+
+17
+00:02:34,654 --> 00:02:36,698
+All right, let's try our luck.
+
+18
+00:02:36,781 --> 00:02:39,075
+I think we were over there last time.
+
+19
+00:02:41,119 --> 00:02:43,079
+I found our gear!
+
+20
+00:02:43,663 --> 00:02:44,873
+It's been ransacked.
+
+21
+00:02:44,956 --> 00:02:46,082
+No!
+
+22
+00:02:48,168 --> 00:02:49,335
+{\an8}Yes!
+
+23
+00:02:49,419 --> 00:02:51,004
+I found my sleeping bag!
+
+24
+00:02:51,087 --> 00:02:53,464
+Great. My underwear's still here too.
+
+25
+00:02:53,548 --> 00:02:56,050
+Those are things you prioritize
+over your valuables?
+
+26
+00:02:57,051 --> 00:02:59,220
+All our food is gone,
+
+27
+00:02:59,304 --> 00:03:01,306
+but everything else seems untouched.
+
+28
+00:03:01,389 --> 00:03:03,182
+Guess it was monsters that did this.
+
+29
+00:03:03,266 --> 00:03:04,559
+I'm so glad.
+
+30
+00:03:04,642 --> 00:03:06,686
+Now I can sleep warm tonight...
+
+31
+00:03:10,398 --> 00:03:11,774
+That's not good.
+
+32
+00:03:11,858 --> 00:03:14,068
+Let's find a place to rest for a bit.
+
+33
+00:03:14,152 --> 00:03:15,570
+I want to organize my gear too.
+
+34
+00:03:16,070 --> 00:03:19,115
+Maybe the snow slows down the Cleaners.
+
+35
+00:03:19,198 --> 00:03:21,242
+They've gotten at my soap.
+
+36
+00:03:21,326 --> 00:03:22,285
+Hey, none of that.
+
+37
+00:03:22,368 --> 00:03:24,412
+Show me whatever you just stashed away.
+
+38
+00:03:27,790 --> 00:03:29,167
+Here, Marcille.
+
+39
+00:03:29,250 --> 00:03:30,251
+Ow.
+
+40
+00:03:30,335 --> 00:03:33,087
+Talk about an untrained beast-man.
+
+41
+00:03:33,171 --> 00:03:35,757
+No wonder they slapped that collar on you.
+
+42
+00:03:36,925 --> 00:03:39,177
+You're called a half-foot, right?
+
+43
+00:03:39,260 --> 00:03:41,971
+I've never seen your kind in the East.
+
+44
+00:03:42,055 --> 00:03:44,098
+I had to come here
+to learn about you folks.
+
+45
+00:03:45,225 --> 00:03:47,143
+{\an8}That odd name for your race.
+
+46
+00:03:47,227 --> 00:03:52,023
+{\an8}I heard it's because lots of you
+got a foot lopped off for stealing.
+
+47
+00:03:53,524 --> 00:03:56,027
+Come on, you two, cut it out.
+
+48
+00:03:57,028 --> 00:03:58,029
+Marcille!
+
+49
+00:03:58,112 --> 00:03:59,280
+Come here!
+
+50
+00:04:02,116 --> 00:04:03,952
+It's a fish!
+
+51
+00:04:04,035 --> 00:04:07,538
+Is there a way to cut out
+just this section?
+
+52
+00:04:08,539 --> 00:04:10,792
+Maybe with a magic circle...
+
+53
+00:04:11,417 --> 00:04:13,836
+Right. Want to give it a shot, Laios?
+
+54
+00:04:13,920 --> 00:04:15,880
+I'll show you how to draw a magic circle.
+
+55
+00:04:16,881 --> 00:04:18,758
+How's your mana sickness been lately?
+
+56
+00:04:18,841 --> 00:04:20,593
+I don't get so dizzy anymore.
+
+57
+00:04:21,511 --> 00:04:24,264
+<i>The hallucinations
+are getting stronger, though.</i>
+
+58
+00:04:25,265 --> 00:04:27,684
+{\an8}<i>It's fish I used to catch
+on the fourth floor.</i>
+
+59
+00:04:29,310 --> 00:04:33,189
+<i>The water from the upper floors
+has flowed down here and froze.</i>
+
+60
+00:04:33,773 --> 00:04:36,943
+<i>Looks like all sorts of stuff
+end up in the stream.</i>
+
+61
+00:04:38,861 --> 00:04:40,446
+And now the circle's ready.
+
+62
+00:04:41,030 --> 00:04:42,282
+{\an8}How do you feel?
+
+63
+00:04:42,365 --> 00:04:43,950
+{\an8}A little tired.
+
+64
+00:04:44,033 --> 00:04:46,077
+I'll activate it then.
+
+65
+00:04:46,160 --> 00:04:50,498
+Imagine it as pouring water
+into the symbols you've etched.
+
+66
+00:04:54,335 --> 00:04:55,336
+What on earth?
+
+67
+00:04:55,420 --> 00:04:56,963
+The ground, it's...
+
+68
+00:05:00,550 --> 00:05:02,218
+A-A monster?
+
+69
+00:05:02,302 --> 00:05:03,845
+An Ice Golem?
+
+70
+00:05:07,974 --> 00:05:09,350
+<i>I see.</i>
+
+71
+00:05:16,190 --> 00:05:17,108
+Hey! Above you!
+
+72
+00:05:17,191 --> 00:05:18,109
+Watch out!
+
+73
+00:05:21,070 --> 00:05:22,447
+Laios!
+
+74
+00:05:34,417 --> 00:05:36,919
+So how do we take this thing down?
+
+75
+00:05:37,003 --> 00:05:39,589
+The only way to stop Golems
+is by breaking their core!
+
+76
+00:05:39,672 --> 00:05:40,715
+{\an8}Their core?
+
+77
+00:05:40,798 --> 00:05:41,841
+{\an8}And where do I find that?
+
+78
+00:05:50,266 --> 00:05:51,851
+Hey! Where's the core?
+
+79
+00:05:51,934 --> 00:05:53,519
+Hang on a second!
+
+80
+00:05:53,603 --> 00:05:55,813
+<i>Is that its core? No, it's just a fish.</i>
+
+81
+00:05:55,897 --> 00:05:57,940
+<i>There's too much junk in there to tell.</i>
+
+82
+00:05:58,024 --> 00:06:01,069
+Hey! Keep that thing distracted
+and buy me some time!
+
+83
+00:06:01,152 --> 00:06:02,320
+I can't spot the core yet!
+
+84
+00:06:02,403 --> 00:06:03,446
+Huh?!
+
+85
+00:06:03,529 --> 00:06:08,326
+<i>That jerk better not be making stuff up
+to bring me down.</i>
+
+86
+00:06:15,208 --> 00:06:16,125
+{\an8}The snow!
+
+87
+00:06:26,886 --> 00:06:28,262
+<i>It stopped.</i>
+
+88
+00:06:40,358 --> 00:06:41,484
+Hey, you done yet?
+
+89
+00:06:41,567 --> 00:06:43,194
+How much longer do I have to keep this up?
+
+90
+00:06:43,277 --> 00:06:44,946
+That's good, Izutsumi. Well done!
+
+91
+00:06:51,536 --> 00:06:53,079
+Good. Perfect!
+
+92
+00:06:54,205 --> 00:06:55,832
+You better not be messing around!
+
+93
+00:06:55,915 --> 00:06:58,334
+No, idiot. Check where my arrow landed.
+
+94
+00:07:02,421 --> 00:07:05,466
+Also, I can use projectiles,
+
+95
+00:07:05,550 --> 00:07:08,427
+but I can't do much damage with them.
+
+96
+00:07:08,511 --> 00:07:10,972
+So don't count on me in a battle!
+
+97
+00:07:11,055 --> 00:07:12,306
+I'll let you handle the rest!
+
+98
+00:07:15,726 --> 00:07:17,019
+<i>Oh, well.</i>
+
+99
+00:07:17,103 --> 00:07:19,397
+<i>Now that I know how to take it down...</i>
+
+100
+00:07:43,629 --> 00:07:48,176
+{\an8}Seems like I'm the only one here
+who's actually useful.
+
+101
+00:07:48,259 --> 00:07:50,511
+The rest of you are just...
+
+102
+00:07:58,102 --> 00:07:59,729
+Is everyone okay?
+
+103
+00:07:59,812 --> 00:08:01,647
+It'll warm up soon.
+
+104
+00:08:02,231 --> 00:08:05,443
+That magic circle can get pretty hot,
+so watch out for burns.
+
+105
+00:08:05,943 --> 00:08:08,362
+Take off your wet clothes
+and dry them out.
+
+106
+00:08:08,446 --> 00:08:09,405
+You too.
+
+107
+00:08:09,489 --> 00:08:11,657
+{\an8}I'll give you some cover.
+
+108
+00:08:12,325 --> 00:08:13,993
+Laios, can you change on your own?
+
+109
+00:08:15,995 --> 00:08:17,497
+Someone lend him a hand.
+
+110
+00:08:19,165 --> 00:08:21,417
+No need to shield me.
+
+111
+00:08:21,501 --> 00:08:23,419
+{\an8}But you can't just...
+
+112
+00:08:32,512 --> 00:08:35,973
+It's not like anyone would be excited
+to see a beast get naked.
+
+113
+00:08:36,974 --> 00:08:37,808
+What's the big idea?
+
+114
+00:08:37,892 --> 00:08:40,603
+{\an8}I just didn't want you catching a chill.
+
+115
+00:08:40,686 --> 00:08:43,814
+At least let me count her nipples,
+or see the base of her tail!
+
+116
+00:08:48,819 --> 00:08:50,905
+It's starting to get warm.
+
+117
+00:08:50,988 --> 00:08:53,616
+Let's prepare something hot.
+
+118
+00:08:54,116 --> 00:08:56,536
+We've got to thaw this out.
+
+119
+00:08:57,119 --> 00:08:59,664
+Maybe I can melt it over the magic circle.
+
+120
+00:09:02,375 --> 00:09:03,918
+Too close.
+
+121
+00:09:04,627 --> 00:09:05,920
+This is nice, though.
+
+122
+00:09:06,003 --> 00:09:07,046
+It feels like a sauna.
+
+123
+00:09:07,755 --> 00:09:09,799
+It's been ages since we had a bath.
+
+124
+00:09:09,882 --> 00:09:11,384
+Let's sweat it out!
+
+125
+00:09:17,223 --> 00:09:18,182
+That thing comes off?
+
+126
+00:09:18,266 --> 00:09:19,559
+Why am I blindfolded?
+
+127
+00:09:20,226 --> 00:09:23,437
+<i>I'll clean the fish, then use the head
+and bones to brew up some broth.</i>
+
+128
+00:09:24,021 --> 00:09:25,940
+We might end up smelling like fish.
+
+129
+00:09:26,566 --> 00:09:29,443
+<i>Thinly slice the mushrooms and Nightmares.</i>
+
+130
+00:09:29,527 --> 00:09:33,197
+<i>Give the Shapeshifter meat a quick boil
+to skim off any scum.</i>
+
+131
+00:09:33,864 --> 00:09:35,533
+<i>Whisk the Harpy egg,</i>
+
+132
+00:09:35,616 --> 00:09:38,786
+<i>then mix it in with the broth
+and other ingredients.</i>
+
+133
+00:09:42,039 --> 00:09:43,958
+<i>Pour it all into cups,</i>
+
+134
+00:09:44,041 --> 00:09:47,211
+<i>set them in a pot
+with the Ice Golem fragments,</i>
+
+135
+00:09:47,295 --> 00:09:48,254
+<i>and heat it up.</i>
+
+136
+00:09:48,796 --> 00:09:51,215
+Look. I made this out of her shed hair.
+
+137
+00:09:51,299 --> 00:09:52,216
+How bored are you?
+
+138
+00:09:52,300 --> 00:09:55,595
+Finally, garnish with Mandrake leaves.
+
+139
+00:09:55,678 --> 00:09:56,887
+And it's done...
+
+140
+00:09:57,430 --> 00:09:58,389
+Hey!
+
+141
+00:09:58,472 --> 00:10:00,808
+You can't just start eating on your own.
+
+142
+00:10:00,891 --> 00:10:03,394
+Wait until everyone is at the table.
+
+143
+00:10:03,477 --> 00:10:04,562
+Why not?
+
+144
+00:10:04,645 --> 00:10:07,106
+I took down the enemy all by myself!
+
+145
+00:10:07,189 --> 00:10:09,650
+I deserve to eat first!
+
+146
+00:10:09,734 --> 00:10:12,653
+Meals begin when everyone's present.
+
+147
+00:10:13,237 --> 00:10:16,240
+Chilchuck, Laios went outside.
+Can you go fetch him?
+
+148
+00:10:16,324 --> 00:10:17,158
+Got it.
+
+149
+00:10:18,326 --> 00:10:20,161
+This feels great.
+
+150
+00:10:20,244 --> 00:10:21,662
+Is this guy for real?
+
+151
+00:10:21,746 --> 00:10:23,831
+ICE GOLEM SAVORY EGG CUSTARD
+
+152
+00:10:23,914 --> 00:10:25,666
+AND COOKED FISH
+TAKEN FROM THE ICE GOLEM
+
+153
+00:10:26,250 --> 00:10:28,919
+All right, now that we're all here,
+
+154
+00:10:29,003 --> 00:10:30,630
+let's start eating!
+
+155
+00:10:30,713 --> 00:10:31,922
+-Let's dig in.
+-Let's dig in.
+
+156
+00:10:33,466 --> 00:10:34,425
+It's pudding.
+
+157
+00:10:35,384 --> 00:10:37,094
+Sorry, Marcille.
+
+158
+00:10:37,178 --> 00:10:38,304
+Yum!
+
+159
+00:10:39,388 --> 00:10:40,640
+<i>What a waste of time.</i>
+
+160
+00:10:40,723 --> 00:10:41,807
+Hey, Izutsumi.
+
+161
+00:10:41,891 --> 00:10:43,476
+What is it?
+
+162
+00:10:43,559 --> 00:10:44,685
+This is for you.
+
+163
+00:10:45,269 --> 00:10:47,396
+I patched up a torn bag.
+
+164
+00:10:47,480 --> 00:10:48,522
+You can use it.
+
+165
+00:10:51,609 --> 00:10:52,443
+Listen.
+
+166
+00:10:53,027 --> 00:10:54,987
+{\an8}I apologize for calling you a beast.
+
+167
+00:10:55,696 --> 00:10:57,281
+{\an8}I've got a sharp tongue.
+
+168
+00:10:57,782 --> 00:11:00,493
+Traveling together
+with a bunch of strangers
+
+169
+00:11:00,576 --> 00:11:03,120
+can feel suffocating
+and annoying at first.
+
+170
+00:11:03,621 --> 00:11:05,665
+But once you get used to it,
+there are perks.
+
+171
+00:11:06,290 --> 00:11:08,834
+You can get others
+to handle stuff you can't.
+
+172
+00:11:17,551 --> 00:11:19,387
+{\an8}-That was delicious.
+-That was delicious.
+
+173
+00:11:20,679 --> 00:11:21,514
+{\an8}Yeah.
+
+174
+00:11:24,392 --> 00:11:25,851
+Hey, are you done yet?
+
+175
+00:11:26,477 --> 00:11:27,812
+Just a little longer.
+
+176
+00:11:28,312 --> 00:11:30,231
+Like this and that...
+
+177
+00:11:30,314 --> 00:11:31,482
+There we go!
+
+178
+00:11:32,733 --> 00:11:34,151
+Ta-da!
+
+179
+00:11:36,320 --> 00:11:38,906
+These are Namari's clothes,
+but don't they suit her perfectly?
+
+180
+00:11:38,989 --> 00:11:40,408
+They're hard to move in.
+
+181
+00:11:40,491 --> 00:11:42,785
+It took some time to adjust them.
+
+182
+00:11:42,868 --> 00:11:44,328
+I got all chilled again.
+
+183
+00:11:44,412 --> 00:11:45,704
+I'm sorry, okay?
+
+184
+00:11:45,788 --> 00:11:46,831
+Well, let's hit the road.
+
+185
+00:11:46,914 --> 00:11:47,748
+Wait.
+
+186
+00:11:50,668 --> 00:11:53,379
+These are Mandrakes boiled sweet.
+
+187
+00:11:53,462 --> 00:11:56,382
+I figured they'd make
+for good travel food.
+
+188
+00:12:00,428 --> 00:12:01,262
+Hey.
+
+189
+00:12:02,471 --> 00:12:03,389
+Have it.
+
+190
+00:12:04,974 --> 00:12:06,225
+That's yours.
+
+191
+00:12:07,268 --> 00:12:08,144
+I don't want it.
+
+192
+00:12:08,227 --> 00:12:09,270
+Why not?
+
+193
+00:12:09,353 --> 00:12:10,855
+It's really tasty.
+
+194
+00:12:10,938 --> 00:12:12,273
+I said I don't want it.
+
+195
+00:12:12,356 --> 00:12:14,400
+No, have a bite at least.
+
+196
+00:12:14,984 --> 00:12:16,277
+-Try it!
+-I said no!
+
+197
+00:12:19,113 --> 00:12:20,823
+{\an8}H-How mean!
+
+198
+00:12:20,906 --> 00:12:23,284
+{\an8}Why did she have
+to draw blood in this situation?
+
+199
+00:12:24,243 --> 00:12:26,620
+Just leave her be.
+She'll eat when she's hungry.
+
+200
+00:12:27,705 --> 00:12:29,290
+Why don't you want it?
+
+201
+00:12:29,373 --> 00:12:30,833
+Because it's a monster.
+
+202
+00:12:30,916 --> 00:12:34,044
+Everyone says that, but how is it
+different from eating animals?
+
+203
+00:12:34,128 --> 00:12:37,715
+If you eat monsters, you catch
+strange diseases and turn into one!
+
+204
+00:12:37,798 --> 00:12:38,799
+That's why I won't eat it!
+
+205
+00:12:39,383 --> 00:12:42,720
+If eating monsters turned you into them,
+it would be a simple story.
+
+206
+00:12:43,220 --> 00:12:45,598
+It's the idea of becoming impure.
+
+207
+00:12:45,681 --> 00:12:47,766
+It's not exactly logical,
+
+208
+00:12:47,850 --> 00:12:51,187
+but I think most people, myself included,
+avoid them for that reason.
+
+209
+00:12:51,770 --> 00:12:54,440
+It feels like you're absorbing
+something bad in some way.
+
+210
+00:12:54,523 --> 00:12:58,819
+{\an8}And with new diseases popping up
+from creatures close to humans,
+
+211
+00:12:58,903 --> 00:13:02,448
+{\an8}I don't think vague aversion
+should be brushed off so lightly.
+
+212
+00:13:05,284 --> 00:13:06,785
+This is really good!
+
+213
+00:13:07,786 --> 00:13:12,708
+{\an8}But what did you do before
+when you were served food you didn't like?
+
+214
+00:13:13,751 --> 00:13:14,793
+Before?
+
+215
+00:13:17,296 --> 00:13:18,339
+Ugh!
+
+216
+00:13:21,592 --> 00:13:22,968
+Tade, you can have this.
+
+217
+00:13:24,303 --> 00:13:26,722
+Thanks, Izu... I mean, Asebi!
+
+218
+00:13:27,306 --> 00:13:28,432
+It never happened.
+
+219
+00:13:28,516 --> 00:13:29,600
+I don't believe you.
+
+220
+00:13:29,683 --> 00:13:31,227
+Let's go, you two!
+
+221
+00:13:41,987 --> 00:13:44,740
+The blizzard doesn't seem to be easing up.
+
+222
+00:13:44,823 --> 00:13:47,535
+Maybe we should just camp here for today.
+
+223
+00:13:47,618 --> 00:13:48,869
+I'm hungry too.
+
+224
+00:13:49,537 --> 00:13:51,664
+Senshi looks worn out as well.
+
+225
+00:13:51,747 --> 00:13:53,749
+Let's whip something up ourselves.
+
+226
+00:13:53,832 --> 00:13:56,126
+What ingredients do we have left?
+
+227
+00:13:56,210 --> 00:13:58,170
+Nightmares, Mandrakes,
+
+228
+00:13:58,254 --> 00:13:59,588
+eggs, mushrooms, and...
+
+229
+00:13:59,672 --> 00:14:00,506
+What's this?
+
+230
+00:14:00,589 --> 00:14:02,049
+Any fish?
+
+231
+00:14:02,132 --> 00:14:03,551
+No, no more fish.
+
+232
+00:14:03,634 --> 00:14:04,718
+Rice then.
+
+233
+00:14:04,802 --> 00:14:07,263
+We're running low on rice too.
+
+234
+00:14:07,346 --> 00:14:09,932
+Don't you have anything better than this?
+
+235
+00:14:10,015 --> 00:14:11,141
+This is all we've got.
+
+236
+00:14:11,225 --> 00:14:13,018
+Liar! You're hiding stuff!
+
+237
+00:14:13,102 --> 00:14:15,980
+You can't afford to be
+a picky eater in the dungeon.
+
+238
+00:14:16,063 --> 00:14:17,648
+You should get used to it quickly.
+
+239
+00:14:17,731 --> 00:14:18,566
+No!
+
+240
+00:14:18,649 --> 00:14:20,401
+I only eat what I want to eat!
+
+241
+00:14:20,484 --> 00:14:22,069
+{\an8}Listen, Izutsumi.
+
+242
+00:14:22,152 --> 00:14:24,405
+{\an8}Eating monsters doesn't turn you into one.
+
+243
+00:14:24,989 --> 00:14:28,534
+<i>Has anyone turned into a sheep
+or pig after eating them?</i>
+
+244
+00:14:28,617 --> 00:14:31,996
+<i>If a blind person eats an eyeball,
+does that mean they'll see again?</i>
+
+245
+00:14:32,580 --> 00:14:35,416
+<i>Sheep only eat grass,
+but do they turn into plants?</i>
+
+246
+00:14:36,000 --> 00:14:39,336
+Food and nutrition
+are more complex than that.
+
+247
+00:14:39,420 --> 00:14:41,672
+That's why people work hard to experiment.
+
+248
+00:14:41,755 --> 00:14:42,923
+{\an8}Shut up!
+
+249
+00:14:43,591 --> 00:14:45,259
+What do you call that then?
+
+250
+00:14:45,342 --> 00:14:46,176
+That?
+
+251
+00:14:50,806 --> 00:14:52,641
+A sheep is growing into a tree.
+
+252
+00:14:53,225 --> 00:14:54,560
+It's a Barometz.
+
+253
+00:14:54,643 --> 00:14:57,229
+Why did it have to show up now?
+
+254
+00:14:57,313 --> 00:14:58,731
+Listen, Izutsumi.
+
+255
+00:14:58,814 --> 00:15:00,232
+That's a plant that always...
+
+256
+00:15:00,316 --> 00:15:02,735
+Shut up! I'm sick of your talk!
+
+257
+00:15:02,818 --> 00:15:03,861
+That's it.
+
+258
+00:15:03,944 --> 00:15:05,738
+I'm going to get that sheep.
+
+259
+00:15:05,821 --> 00:15:07,114
+{\an8}What's a Barometz?
+
+260
+00:15:07,197 --> 00:15:08,574
+{\an8}Is it some kind of monster?
+
+261
+00:15:08,657 --> 00:15:10,993
+{\an8}It's a monster all right,
+but it's harmless.
+
+262
+00:15:11,076 --> 00:15:11,994
+{\an8}Although,
+
+263
+00:15:12,077 --> 00:15:14,955
+they do tend to attract carnivores.
+
+264
+00:15:15,956 --> 00:15:17,666
+Be careful, Izutsumi.
+
+265
+00:15:17,750 --> 00:15:19,126
+<i>Who does he think he's talking to?</i>
+
+266
+00:15:22,212 --> 00:15:23,505
+{\an8}It's not safe to stay here.
+
+267
+00:15:23,589 --> 00:15:25,633
+{\an8}-Let's harvest it quickly and...
+-They're here.
+
+268
+00:15:25,716 --> 00:15:26,634
+Huh?
+
+269
+00:15:30,554 --> 00:15:32,473
+Dammit. Dire Wolves!
+
+270
+00:15:37,853 --> 00:15:39,897
+M-My staff!
+
+271
+00:15:44,944 --> 00:15:46,028
+Hold up!
+
+272
+00:15:46,111 --> 00:15:47,529
+Where are you going?
+
+273
+00:15:47,613 --> 00:15:49,114
+I hate dogs.
+
+274
+00:15:49,198 --> 00:15:50,991
+They're smelly, noisy, and persistent.
+
+275
+00:15:51,617 --> 00:15:54,495
+I-Is that reason enough
+to just go off on your own?
+
+276
+00:15:55,287 --> 00:15:56,705
+I left you guys to deal with them.
+
+277
+00:15:56,789 --> 00:16:00,960
+You guys said friends are supposed
+to make up for each other.
+
+278
+00:16:01,752 --> 00:16:04,046
+{\an8}That's not quite what we meant.
+
+279
+00:16:04,129 --> 00:16:05,339
+Then what did you mean?
+
+280
+00:16:05,422 --> 00:16:08,300
+You didn't join in on the fight
+with the Golem back there.
+
+281
+00:16:08,384 --> 00:16:10,886
+It's true we left that to you,
+
+282
+00:16:10,970 --> 00:16:12,805
+but not because of personal preferences.
+
+283
+00:16:13,514 --> 00:16:15,808
+Hey, let's turn back.
+
+284
+00:16:15,891 --> 00:16:17,059
+No.
+
+285
+00:16:17,893 --> 00:16:20,229
+<i>I'm catching a whiff of fire in the wind.</i>
+
+286
+00:16:20,312 --> 00:16:22,314
+<i>If I follow it, I can find my way back.</i>
+
+287
+00:16:24,149 --> 00:16:25,067
+Wait!
+
+288
+00:16:27,027 --> 00:16:29,196
+<i>The scent's stronger to the right,</i>
+
+289
+00:16:29,279 --> 00:16:31,699
+<i>but the path looks rough,
+so I'll go this way.</i>
+
+290
+00:16:31,782 --> 00:16:33,951
+Where are you heading?
+Is this the right way?
+
+291
+00:16:34,535 --> 00:16:36,620
+I'll take the path I want.
+
+292
+00:16:36,704 --> 00:16:38,580
+You should do the same.
+
+293
+00:16:38,664 --> 00:16:41,208
+Why don't you do as you like more?
+
+294
+00:16:41,291 --> 00:16:42,918
+You hate eating monsters,
+
+295
+00:16:43,002 --> 00:16:45,212
+and yet you still do it.
+
+296
+00:16:45,796 --> 00:16:47,131
+It doesn't make sense.
+
+297
+00:16:47,840 --> 00:16:48,716
+{\an8}Well...
+
+298
+00:16:50,551 --> 00:16:52,845
+It seems the wolves have come after us.
+
+299
+00:16:52,928 --> 00:16:54,096
+Should we fight them here?
+
+300
+00:16:54,179 --> 00:16:56,557
+I can use explosive spells,
+
+301
+00:16:56,640 --> 00:16:58,517
+but I don't have my staff with me.
+
+302
+00:16:58,600 --> 00:17:00,644
+And it's risky to cast them
+in such a confined space.
+
+303
+00:17:00,728 --> 00:17:02,855
+Maybe I can stun them with a bright light.
+
+304
+00:17:02,938 --> 00:17:04,523
+I'll run and shake them off.
+
+305
+00:17:07,818 --> 00:17:10,237
+What?!
+
+306
+00:17:25,085 --> 00:17:26,378
+Ow!
+
+307
+00:17:28,589 --> 00:17:29,590
+Owie.
+
+308
+00:17:30,591 --> 00:17:31,633
+Ow.
+
+309
+00:17:33,594 --> 00:17:35,220
+Hey, Asebi!
+
+310
+00:17:36,472 --> 00:17:39,892
+You made Tade clear off the snow
+from the roof of the training hall.
+
+311
+00:17:39,975 --> 00:17:40,893
+I didn't.
+
+312
+00:17:40,976 --> 00:17:42,352
+Don't lie to me!
+
+313
+00:17:42,436 --> 00:17:44,646
+She fell from the roof while doing it.
+
+314
+00:17:44,730 --> 00:17:47,232
+Unlike you, she's clumsy,
+
+315
+00:17:47,316 --> 00:17:49,777
+so don't push tasks you dislike onto her!
+
+316
+00:17:49,860 --> 00:17:52,112
+You should show more gratitude to us
+for taking you in.
+
+317
+00:17:56,116 --> 00:17:57,242
+Hey, Tade.
+
+318
+00:17:57,993 --> 00:18:00,537
+Why did you go and do something
+I never asked you to do?
+
+319
+00:18:00,621 --> 00:18:01,663
+You really are dumb.
+
+320
+00:18:02,873 --> 00:18:04,583
+But Tade...
+
+321
+00:18:06,085 --> 00:18:09,338
+<i>What was it she said that day?</i>
+
+322
+00:18:10,130 --> 00:18:11,298
+Never mind.
+
+323
+00:18:16,720 --> 00:18:17,721
+<i>I slipped up.</i>
+
+324
+00:18:18,388 --> 00:18:20,265
+<i>The explosion shifted
+the wind's direction,</i>
+
+325
+00:18:20,349 --> 00:18:21,725
+<i>and I failed to notice.</i>
+
+326
+00:18:27,481 --> 00:18:28,690
+Close... your eyes.
+
+327
+00:18:29,566 --> 00:18:32,402
+{\an8}Close your eyes.
+
+328
+00:18:32,486 --> 00:18:34,780
+{\an8}Close them!
+
+329
+00:18:42,079 --> 00:18:43,997
+T-Too close!
+
+330
+00:18:52,923 --> 00:18:53,757
+Izutsumi!
+
+331
+00:18:54,800 --> 00:18:55,759
+Are you alive?
+
+332
+00:18:56,635 --> 00:18:57,803
+Ow!
+
+333
+00:18:57,886 --> 00:18:59,179
+Your arm is broken.
+
+334
+00:18:59,263 --> 00:19:00,347
+Can you walk?
+
+335
+00:19:00,430 --> 00:19:01,849
+Let's rejoin the others.
+
+336
+00:19:09,148 --> 00:19:10,023
+Listen.
+
+337
+00:19:10,607 --> 00:19:13,777
+{\an8}You asked me why I eat monsters,
+
+338
+00:19:14,403 --> 00:19:16,363
+and I've been thinking about it.
+
+339
+00:19:16,446 --> 00:19:19,032
+I have my goals and objectives.
+
+340
+00:19:19,116 --> 00:19:20,701
+I want to help my friend
+
+341
+00:19:20,784 --> 00:19:23,036
+and learn more about magic.
+
+342
+00:19:23,871 --> 00:19:27,082
+So, I'm pushing toward those goals.
+
+343
+00:19:27,166 --> 00:19:29,501
+Along the way,
+I encounter things I dislike.
+
+344
+00:19:30,002 --> 00:19:32,504
+Things that are bothersome,
+things that tire me,
+
+345
+00:19:32,588 --> 00:19:34,756
+and having to eat things I'd rather not.
+
+346
+00:19:35,757 --> 00:19:38,093
+Individually, none of it is a big deal.
+
+347
+00:19:38,177 --> 00:19:41,763
+But if I avoid everything I dislike,
+
+348
+00:19:41,847 --> 00:19:44,099
+I'll stray further and further
+from my path.
+
+349
+00:19:45,017 --> 00:19:47,227
+Just like what's happening to us now.
+
+350
+00:19:48,896 --> 00:19:51,857
+Why did you choose
+to come along with us, Izutsumi?
+
+351
+00:19:52,399 --> 00:19:55,819
+Because you said that
+if we met the lunatic magician,
+
+352
+00:19:55,903 --> 00:19:58,405
+there might be a chance
+to break the curse on me.
+
+353
+00:19:58,488 --> 00:19:59,364
+It's this way!
+
+354
+00:19:59,990 --> 00:20:01,033
+Exactly.
+
+355
+00:20:01,116 --> 00:20:04,077
+That's why you need to be ready
+to take a few shortcuts.
+
+356
+00:20:10,959 --> 00:20:12,711
+Izutsumi! Marcille!
+
+357
+00:20:12,794 --> 00:20:13,837
+Are you okay?
+
+358
+00:20:13,921 --> 00:20:16,048
+What about you guys?
+
+359
+00:20:16,131 --> 00:20:18,342
+We were in a bit of a fix,
+
+360
+00:20:19,509 --> 00:20:21,929
+<i>but Laios managed to scare them off,
+so we're safe.</i>
+
+361
+00:20:22,012 --> 00:20:25,098
+<i>Most of the wolves
+went after Marcille, anyway.</i>
+
+362
+00:20:25,891 --> 00:20:27,059
+Are you hurt?
+
+363
+00:20:27,142 --> 00:20:28,769
+It seems she broke her arm.
+
+364
+00:20:29,269 --> 00:20:30,646
+I'll use recovery magic on her
+
+365
+00:20:30,729 --> 00:20:32,773
+while I set it back into place,
+so lend me a hand.
+
+366
+00:20:38,695 --> 00:20:40,864
+{\an8}You did great.
+
+367
+00:20:40,948 --> 00:20:43,367
+{\an8}The recovery magic hurt more.
+
+368
+00:20:43,450 --> 00:20:46,036
+I was hoping to harvest a Barometz,
+
+369
+00:20:46,119 --> 00:20:49,081
+but the wolves made off
+with the mature one.
+
+370
+00:20:49,164 --> 00:20:52,251
+All that was left was this unripe fruit.
+
+371
+00:20:53,502 --> 00:20:54,962
+Let's try cooking it.
+
+372
+00:21:03,095 --> 00:21:05,180
+There's a sheep inside the fruit.
+
+373
+00:21:05,264 --> 00:21:06,348
+I can't eat that!
+
+374
+00:21:06,431 --> 00:21:09,101
+It's not the same as the others,
+ethically speaking. I can't eat that!
+
+375
+00:21:09,184 --> 00:21:10,018
+Yuck.
+
+376
+00:21:10,102 --> 00:21:13,772
+Slice the Barometz ribs
+into appropriate sizes,
+
+377
+00:21:13,855 --> 00:21:16,275
+season them, and cook them.
+
+378
+00:21:16,358 --> 00:21:19,528
+When both sides are nicely browned,
+
+379
+00:21:19,611 --> 00:21:22,906
+pour in some wine,
+cover with a lid, and let them steam.
+
+380
+00:21:22,990 --> 00:21:26,827
+Run the rind of the fruit
+through hot water, remove the peel,
+
+381
+00:21:26,910 --> 00:21:28,412
+then chop it into chunks.
+
+382
+00:21:28,495 --> 00:21:31,164
+Add garlic and stew together.
+
+383
+00:21:31,748 --> 00:21:34,918
+Pour the finished sauce over the meat,
+
+384
+00:21:35,502 --> 00:21:36,420
+and it's done.
+
+385
+00:21:36,503 --> 00:21:38,922
+BAROMETZ BALUT (OR BAROMETZ CHOPS)
+
+386
+00:21:39,506 --> 00:21:40,924
+Here, cat girl.
+
+387
+00:21:41,008 --> 00:21:42,259
+This is yours.
+
+388
+00:21:43,010 --> 00:21:44,970
+It's got weird stuff in it.
+
+389
+00:21:45,053 --> 00:21:48,265
+That's the Barometz skin and shoots.
+
+390
+00:21:49,891 --> 00:21:52,311
+You should've grilled the meat on its own.
+
+391
+00:21:59,901 --> 00:22:02,946
+Barometz might look just like sheep,
+
+392
+00:22:03,030 --> 00:22:04,823
+but they taste like crab!
+
+393
+00:22:04,906 --> 00:22:06,033
+<i>So what?</i>
+
+394
+00:22:07,159 --> 00:22:08,201
+<i>It's delicious.</i>
+
+395
+00:22:08,285 --> 00:22:10,829
+<i>I never knew food this amazing existed.</i>
+
+396
+00:22:12,039 --> 00:22:13,332
+<i>Come to think of it...</i>
+
+397
+00:22:13,957 --> 00:22:17,711
+Tade, why did you go and do something
+I never asked you to do?
+
+398
+00:22:18,378 --> 00:22:19,629
+You really are dumb.
+
+399
+00:22:20,172 --> 00:22:21,673
+Tade just wants
+
+400
+00:22:22,215 --> 00:22:25,010
+to be helpful to everyone.
+
+401
+00:22:25,093 --> 00:22:26,094
+Ow!
+
+402
+00:22:26,178 --> 00:22:28,388
+I mean, this place is pretty great.
+
+403
+00:22:28,472 --> 00:22:32,350
+We get three meals,
+warm bedding, and baths too.
+
+404
+00:22:32,434 --> 00:22:34,895
+I can't risk being kicked out.
+
+405
+00:22:34,978 --> 00:22:37,606
+I'll do chores and anything else
+to show them I'm useful!
+
+406
+00:22:39,816 --> 00:22:40,692
+Asebi,
+
+407
+00:22:41,693 --> 00:22:44,863
+{\an8}don't lose your way just because
+something is a bit bothersome.
+
+408
+00:22:47,449 --> 00:22:51,536
+{\an8}And Lady Maizuru sometimes
+rewards me with snacks.
+
+409
+00:22:51,620 --> 00:22:53,705
+{\an8}That's what you're truly after, isn't it?
+
+410
+00:22:54,956 --> 00:22:56,333
+<i>Maybe she's right.</i>
+
+411
+00:22:56,416 --> 00:22:59,669
+<i>Sometimes you do end up
+with something tasty out of it.</i>
+
+412
+00:23:03,215 --> 00:23:05,675
+Good for you, Izutsumi!
+
+413
+00:23:05,759 --> 00:23:08,136
+-Well done! Good girl!
+-Good girl.
+
+414
+00:23:08,220 --> 00:23:10,097
+{\an8}Cut it out... You...
+
+415
+00:23:10,180 --> 00:23:13,725
+{\an8}What do you take me for, huh?!
+
+416
+00:23:14,226 --> 00:23:16,812
+I'll only eat when I have no other choice.
+
+417
+00:23:16,895 --> 00:23:19,606
+I won't be eating any vegetables
+or monsters that taste bad, got it?
+
+418
+00:23:20,190 --> 00:23:23,110
+But you won't know if they taste bad
+until you give them a try.
+
+419
+00:23:23,193 --> 00:23:26,238
+By the way, Marcille,
+I noticed you're barely eating.
+
+420
+00:23:26,321 --> 00:23:28,657
+Do you really think
+you can get away with not eating
+
+421
+00:23:28,740 --> 00:23:30,617
+after giving me that lecture?
+
+422
+00:23:31,785 --> 00:23:36,081
+<i>Marcille deeply regretted
+blocking her own means of escape.</i>
+
+423
+00:23:37,124 --> 00:23:38,500
+<i>Dungeon food.</i>
+
+424
+00:23:38,583 --> 00:23:41,002
+<i>Oh, dungeon food.</i>
+
+425
+00:25:10,133 --> 00:25:11,968
+{\an8}Subtitle translation by: Ai Matsuoka
+

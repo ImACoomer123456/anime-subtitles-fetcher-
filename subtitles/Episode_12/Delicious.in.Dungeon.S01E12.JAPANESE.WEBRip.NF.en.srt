@@ -1,0 +1,1618 @@
+﻿1
+00:01:33,635 --> 00:01:37,847
+DELICIOUS IN DUNGEON
+
+2
+00:01:43,102 --> 00:01:43,937
+No way.
+
+3
+00:01:45,063 --> 00:01:46,189
+Falin...
+
+4
+00:01:46,272 --> 00:01:49,359
+C-Could she really be resurrected
+from that condition?
+
+5
+00:01:50,068 --> 00:01:52,028
+It's not unprecedented, but...
+
+6
+00:01:54,280 --> 00:01:56,199
+H-Hey, Laios.
+
+7
+00:01:56,950 --> 00:01:57,992
+We don't know that yet.
+
+8
+00:01:58,076 --> 00:01:59,744
+I'll take her to the resurrection office.
+
+9
+00:02:00,328 --> 00:02:02,288
+Are you planning to take the entire mass?
+
+10
+00:02:02,372 --> 00:02:04,874
+There are probably Warg bones
+in there as well.
+
+11
+00:02:04,958 --> 00:02:06,793
+I can't distinguish them, so...
+
+12
+00:02:08,086 --> 00:02:09,504
+I'll help.
+
+13
+00:02:11,840 --> 00:02:13,049
+Wait!
+
+14
+00:02:14,592 --> 00:02:17,178
+{\an8}The bond between her soul and flesh
+is very fragile right now.
+
+15
+00:02:17,262 --> 00:02:18,763
+{\an8}Moving her remains is risky.
+
+16
+00:02:19,305 --> 00:02:23,017
+<i>The greater the damage to one's flesh,
+the more likely their soul is to depart.</i>
+
+17
+00:02:23,101 --> 00:02:25,728
+<i>The main reason some resurrections fail</i>
+
+18
+00:02:25,812 --> 00:02:29,774
+<i>is the soul's departure
+or the incomplete restoration of the body.</i>
+
+19
+00:02:30,358 --> 00:02:32,068
+So, what do we do?
+
+20
+00:02:32,569 --> 00:02:36,030
+Bring a revivifier
+and resurrect her right here.
+
+21
+00:02:36,614 --> 00:02:40,994
+<i>But it requires twice the calories
+of the damaged parts to restore her.</i>
+
+22
+00:02:41,077 --> 00:02:44,622
+<i>They'll need to bring a substantial amount
+of fresh blood and flesh along.</i>
+
+23
+00:02:45,748 --> 00:02:47,750
+{\an8}-They'll rot on their way here...
+-No.
+
+24
+00:02:47,834 --> 00:02:49,002
+{\an8}What?
+
+25
+00:02:49,085 --> 00:02:49,919
+{\an8}Yes.
+
+26
+00:02:50,503 --> 00:02:53,882
+We have an abundance
+of fresh blood and flesh right here.
+
+27
+00:02:54,757 --> 00:02:56,384
+W-Wait a minute!
+
+28
+00:02:56,467 --> 00:02:58,177
+Are you going to resurrect her?
+
+29
+00:02:58,261 --> 00:02:59,304
+Using dragon flesh?
+
+30
+00:02:59,387 --> 00:03:01,931
+But resurrection magic
+isn't your specialty, is it?
+
+31
+00:03:03,433 --> 00:03:06,311
+I've been silent about it
+because I didn't want to alarm you.
+
+32
+00:03:07,687 --> 00:03:12,525
+But I specialize in the study
+of ancient magic that's forbidden now.
+
+33
+00:03:13,067 --> 00:03:15,904
+I think using that
+is the only way we can bring her back.
+
+34
+00:03:16,779 --> 00:03:18,406
+{\an8}It's not honest magic, but still.
+
+35
+00:03:18,489 --> 00:03:20,283
+{\an8}-What?
+-Black magic?
+
+36
+00:03:20,366 --> 00:03:22,160
+{\an8}Don't. No good will come of it.
+
+37
+00:03:22,660 --> 00:03:24,704
+{\an8}There is no good or evil in magic.
+
+38
+00:03:27,165 --> 00:03:29,042
+What do you say, Laios?
+
+39
+00:03:30,418 --> 00:03:31,961
+Do it, Marcille.
+
+40
+00:03:32,545 --> 00:03:34,505
+Bring Falin back to life.
+
+41
+00:03:36,549 --> 00:03:37,759
+Leave it to me.
+
+42
+00:03:37,842 --> 00:03:38,968
+I'll try my best.
+
+43
+00:03:39,052 --> 00:03:40,595
+Are you all out of your minds?
+
+44
+00:03:40,678 --> 00:03:42,972
+You're seriously going
+to use dragon flesh?
+
+45
+00:03:43,056 --> 00:03:45,642
+Usually, they use goats or pigs.
+
+46
+00:03:45,725 --> 00:03:47,560
+It's kinda late
+to start having qualms about it.
+
+47
+00:03:47,644 --> 00:03:48,478
+Marcille.
+
+48
+00:04:02,951 --> 00:04:06,746
+{\an8}Her body should be as close
+to its original state as possible,
+
+49
+00:04:06,829 --> 00:04:08,873
+{\an8}so I'll start by reconstructing
+her bone structure.
+
+50
+00:04:09,457 --> 00:04:10,416
+I see.
+
+51
+00:04:10,500 --> 00:04:12,627
+I have some knowledge
+of a dog's skeletal framework.
+
+52
+00:04:13,211 --> 00:04:15,505
+I'll work on putting together
+a Warg's frame.
+
+53
+00:04:18,258 --> 00:04:20,385
+{\an8}That's not necessary, is it?
+
+54
+00:04:20,468 --> 00:04:23,346
+{\an8}It could help avoid oversights or errors!
+
+55
+00:04:26,015 --> 00:04:28,309
+Humans typically have around 200 bones.
+
+56
+00:04:28,393 --> 00:04:31,813
+So, that means
+there are roughly 840 bones here.
+
+57
+00:04:31,896 --> 00:04:33,481
+Huh? That many?
+
+58
+00:04:34,607 --> 00:04:36,609
+Based on the skulls, there were two Wargs.
+
+59
+00:04:36,693 --> 00:04:39,362
+A dog's body has around 320 bones.
+
+60
+00:04:39,988 --> 00:04:42,407
+It should be easier
+if we begin with the simpler bones.
+
+61
+00:04:42,991 --> 00:04:45,368
+The more rounded one is a human rib cage.
+
+62
+00:04:45,451 --> 00:04:48,579
+Next, the vertebrae
+that connect with the ribs.
+
+63
+00:04:48,663 --> 00:04:51,666
+This is easy as well since the curvature
+of the spine is so distinct.
+
+64
+00:04:51,749 --> 00:04:55,295
+The tricky part
+is the smaller bones of the arms and legs.
+
+65
+00:04:55,795 --> 00:04:58,256
+I can't distinguish them at all.
+
+66
+00:04:58,756 --> 00:05:01,676
+Let's start sorting them out,
+beginning with the prominent ones.
+
+67
+00:05:01,759 --> 00:05:05,054
+The largest bone here is the ankle bone.
+
+68
+00:05:05,138 --> 00:05:08,683
+Arrange the other large bones
+in a way that fits,
+
+69
+00:05:09,350 --> 00:05:11,269
+and we have the instep of a foot.
+
+70
+00:05:12,353 --> 00:05:14,731
+Lastly, the bones of the hand.
+
+71
+00:05:14,814 --> 00:05:16,941
+Let's start by arranging the fingers.
+
+72
+00:05:17,025 --> 00:05:18,276
+I got it!
+
+73
+00:05:19,527 --> 00:05:21,195
+Like this, right?
+
+74
+00:05:21,779 --> 00:05:22,864
+Close!
+
+75
+00:05:22,947 --> 00:05:26,075
+The longest metacarpal isn't
+in the middle finger
+
+76
+00:05:26,159 --> 00:05:27,452
+but in the index finger.
+
+77
+00:05:28,244 --> 00:05:31,289
+Finally, we need to find the carpal bones
+that connect the fingers to her arm.
+
+78
+00:05:37,045 --> 00:05:37,920
+Give me a hint!
+
+79
+00:05:38,004 --> 00:05:39,714
+You better not be enjoying this!
+
+80
+00:05:43,426 --> 00:05:44,469
+There.
+
+81
+00:05:44,552 --> 00:05:46,012
+It's done!
+
+82
+00:05:46,095 --> 00:05:48,473
+THE BONE STRUCTURES
+OF FALIN AND WARGS
+
+83
+00:05:49,390 --> 00:05:50,725
+I don't know how to put it, but...
+
+84
+00:05:51,726 --> 00:05:53,478
+they're such beautiful
+skeletal frameworks.
+
+85
+00:05:54,062 --> 00:05:55,396
+{\an8}They're really nice skeletons now.
+
+86
+00:05:55,480 --> 00:05:57,690
+{\an8}It seems they had good calcium.
+
+87
+00:05:58,441 --> 00:06:00,985
+{\an8}This won't revive
+the Wargs as well, will it?
+
+88
+00:06:01,069 --> 00:06:04,155
+The only souls confined
+to the dungeon are those of humans.
+
+89
+00:06:04,238 --> 00:06:08,034
+Otherwise, this place would be crowded
+with the souls of all sorts of creatures.
+
+90
+00:06:18,961 --> 00:06:21,339
+Well then, I'll start.
+
+91
+00:06:23,633 --> 00:06:24,759
+<i>O Pilitsham.</i>
+
+92
+00:06:25,384 --> 00:06:27,804
+<i>O Esdoms. O Villaru.</i>
+
+93
+00:06:28,721 --> 00:06:31,390
+<i>Casuszameo Rotokt Artumcuks.</i>
+
+94
+00:06:32,100 --> 00:06:34,268
+<i>O Kunquikeo. Eoktum Kome.</i>
+
+95
+00:06:35,728 --> 00:06:41,275
+<i>Tumao Elm Finktow Kemesfo.
+Aoewauk Aentujon.</i>
+
+96
+00:06:41,359 --> 00:06:44,237
+<i>Tumao Elm Finktow Kemesfo.</i>
+
+97
+00:06:44,320 --> 00:06:46,864
+<i>Aoewauk Aentujon.</i>
+
+98
+00:06:47,365 --> 00:06:50,034
+<i>Tumao Elm Finktow Kemesfo.</i>
+
+99
+00:06:50,701 --> 00:06:54,288
+<i>Aoewauk Aentujon...</i>
+
+100
+00:06:55,706 --> 00:06:56,707
+Marcille!
+
+101
+00:06:59,127 --> 00:07:00,920
+She's unconscious.
+
+102
+00:07:01,504 --> 00:07:02,547
+What happened?
+
+103
+00:07:02,630 --> 00:07:04,173
+Did it work?
+
+104
+00:07:23,109 --> 00:07:23,985
+Falin!
+
+105
+00:07:24,902 --> 00:07:26,779
+Her air passage is blocked with blood.
+
+106
+00:07:26,863 --> 00:07:28,823
+Try to stay calm and spit it out.
+
+107
+00:07:30,074 --> 00:07:31,617
+You're safe now.
+
+108
+00:07:36,414 --> 00:07:37,290
+Falin.
+
+109
+00:07:47,383 --> 00:07:48,551
+Laios...
+
+110
+00:07:52,722 --> 00:07:54,140
+Thank goodness.
+
+111
+00:07:56,976 --> 00:07:58,144
+Cold...
+
+112
+00:07:58,644 --> 00:08:00,354
+Right, my armor!
+
+113
+00:08:00,438 --> 00:08:02,607
+Sorry! I'll get you something to wear!
+
+114
+00:08:05,109 --> 00:08:07,111
+Falin, are you okay?
+
+115
+00:08:07,778 --> 00:08:09,614
+Are you unhurt?
+
+116
+00:08:11,157 --> 00:08:12,700
+That's good.
+
+117
+00:08:13,284 --> 00:08:14,202
+Marcille.
+
+118
+00:08:14,869 --> 00:08:15,953
+Marcille!
+
+119
+00:08:18,206 --> 00:08:19,165
+What happened to Falin?
+
+120
+00:08:19,832 --> 00:08:21,083
+She's come back to life.
+
+121
+00:08:21,667 --> 00:08:24,212
+She still seems a bit disoriented, though.
+
+122
+00:08:29,425 --> 00:08:30,885
+Falin!
+
+123
+00:08:34,931 --> 00:08:36,057
+Thank goodness!
+
+124
+00:08:36,140 --> 00:08:38,184
+I'm so relieved!
+
+125
+00:08:39,477 --> 00:08:40,645
+Marcille...
+
+126
+00:08:48,402 --> 00:08:49,487
+Chil...
+
+127
+00:08:49,570 --> 00:08:50,988
+How's she doing?
+
+128
+00:08:52,114 --> 00:08:54,242
+She still seems to be a little confused.
+
+129
+00:08:54,825 --> 00:08:56,369
+Right. Let me introduce him.
+
+130
+00:08:56,452 --> 00:08:57,995
+This is Senshi.
+
+131
+00:08:58,079 --> 00:09:00,248
+He helped us a lot on our journey.
+
+132
+00:09:00,915 --> 00:09:02,959
+Hello, Falin.
+
+133
+00:09:03,042 --> 00:09:04,585
+It's nice to meet you.
+
+134
+00:09:05,628 --> 00:09:06,963
+Sen...
+
+135
+00:09:14,595 --> 00:09:16,889
+Let's start preparing our meal!
+
+136
+00:09:21,769 --> 00:09:23,688
+Thank goodness!
+
+137
+00:09:23,771 --> 00:09:27,024
+I'm so relieved!
+
+138
+00:09:27,108 --> 00:09:28,818
+M-Marcille.
+
+139
+00:09:29,402 --> 00:09:31,320
+I can wash myself, you know.
+
+140
+00:09:31,404 --> 00:09:34,574
+I had to make sure your skin
+was restored properly.
+
+141
+00:09:35,157 --> 00:09:36,576
+It tickles!
+
+142
+00:09:40,913 --> 00:09:42,957
+You have a bruise here!
+
+143
+00:09:43,040 --> 00:09:45,167
+T-That's from when I tripped
+
+144
+00:09:45,251 --> 00:09:47,587
+and bumped my chin
+on the edge of the steps as a kid.
+
+145
+00:09:47,670 --> 00:09:49,589
+Oh.
+
+146
+00:09:50,298 --> 00:09:53,676
+Marcille, you look paler than me.
+
+147
+00:09:54,635 --> 00:09:56,345
+I'm just running low on magic.
+
+148
+00:09:56,429 --> 00:09:59,557
+I'll be fine if I have something to eat
+and rest a little...
+
+149
+00:10:04,520 --> 00:10:05,354
+What are you doing?
+
+150
+00:10:06,230 --> 00:10:09,609
+I just wanted to share
+some of my magic with you.
+
+151
+00:10:09,692 --> 00:10:11,569
+Oh, please.
+
+152
+00:10:11,652 --> 00:10:14,614
+{\an8}You don't have enough magic
+right now to share.
+
+153
+00:10:14,697 --> 00:10:15,615
+But I do.
+
+154
+00:10:16,240 --> 00:10:18,117
+I'm feeling surprisingly great.
+
+155
+00:10:18,200 --> 00:10:20,202
+There's this power welling up inside me.
+
+156
+00:10:21,329 --> 00:10:24,206
+{\an8}But it's a bit like
+recovering from an illness,
+
+157
+00:10:24,290 --> 00:10:27,168
+{\an8}so hold off on using magic
+until you're back on your feet, okay?
+
+158
+00:10:30,296 --> 00:10:32,548
+{\an8}I died, didn't I?
+
+159
+00:10:34,050 --> 00:10:37,428
+{\an8}I can't remember how it happened.
+
+160
+00:10:37,511 --> 00:10:39,597
+{\an8}What exactly happened?
+
+161
+00:10:39,680 --> 00:10:41,307
+{\an8}Everyone is exhausted and scarred.
+
+162
+00:10:41,390 --> 00:10:44,268
+{\an8}And why is the Red Dragon here?
+
+163
+00:10:44,352 --> 00:10:46,729
+Are Namari and Shuro safe?
+
+164
+00:10:46,812 --> 00:10:50,775
+If everyone had to push themselves
+because of me, then...
+
+165
+00:10:50,858 --> 00:10:52,360
+That's not...
+
+166
+00:10:52,443 --> 00:10:55,029
+{\an8}And what's up with that magic circle?
+
+167
+00:10:56,614 --> 00:10:59,742
+It didn't look like anything good.
+
+168
+00:11:01,619 --> 00:11:06,082
+If I forced you
+to use something like that...
+
+169
+00:11:08,125 --> 00:11:09,293
+{\an8}It's fine!
+
+170
+00:11:11,420 --> 00:11:14,924
+Sure, getting here was challenging,
+and I had some rough times.
+
+171
+00:11:15,007 --> 00:11:17,551
+But now, they're all just
+stories to laugh about
+
+172
+00:11:17,635 --> 00:11:19,804
+because everything worked out!
+
+173
+00:11:20,596 --> 00:11:23,808
+So, don't worry about it.
+
+174
+00:11:24,475 --> 00:11:27,144
+None of us has any regrets at all.
+
+175
+00:11:33,734 --> 00:11:37,321
+{\an8}We can erase that magic circle altogether,
+and it will be fine.
+
+176
+00:11:38,948 --> 00:11:40,199
+For now...
+
+177
+00:11:40,908 --> 00:11:44,245
+our main concern is the journey back.
+
+178
+00:11:44,829 --> 00:11:46,622
+What should we do about your clothes?
+
+179
+00:11:46,705 --> 00:11:49,083
+And I have to wash and dry mine.
+
+180
+00:11:49,166 --> 00:11:51,961
+Honestly, if it weren't for those frogs...
+
+181
+00:11:52,503 --> 00:11:53,462
+Frogs?
+
+182
+00:11:55,423 --> 00:11:56,465
+What's the plan now?
+
+183
+00:11:57,550 --> 00:11:58,968
+Head back to the surface.
+
+184
+00:11:59,552 --> 00:12:02,721
+We can't use return magic
+or the Orcs' secret passage anymore.
+
+185
+00:12:02,805 --> 00:12:05,141
+We'll have to take the main road
+back to the castle.
+
+186
+00:12:05,224 --> 00:12:06,225
+That's not what I meant.
+
+187
+00:12:06,809 --> 00:12:10,980
+{\an8}Even though you've rescued your sister,
+you're still penniless.
+
+188
+00:12:11,063 --> 00:12:13,899
+{\an8}I do have some savings in the bank.
+
+189
+00:12:13,983 --> 00:12:15,818
+{\an8}But you don't have a token, right?
+
+190
+00:12:15,901 --> 00:12:18,279
+{\an8}And to get it reissued,
+it'll take a month.
+
+191
+00:12:18,362 --> 00:12:20,364
+{\an8}That's the predicament.
+
+192
+00:12:22,032 --> 00:12:23,701
+{\an8}Anyway, Marcille, that girl!
+
+193
+00:12:23,784 --> 00:12:25,202
+{\an8}Did you know, Laios?
+
+194
+00:12:25,286 --> 00:12:27,163
+{\an8}That she could use black magic?
+
+195
+00:12:27,872 --> 00:12:29,832
+{\an8}She never shared many details,
+
+196
+00:12:29,915 --> 00:12:33,252
+{\an8}but she mentioned wanting
+to explore the dungeon for her studies.
+
+197
+00:12:33,335 --> 00:12:35,004
+{\an8}I thought it was odd.
+
+198
+00:12:35,629 --> 00:12:39,508
+Why would an elf who doesn't seem
+to be desperate venture into the dungeon?
+
+199
+00:12:39,592 --> 00:12:42,011
+She's not one of those dark elves, is she?
+
+200
+00:12:42,970 --> 00:12:44,847
+I hope this won't lead to any trouble.
+
+201
+00:12:46,557 --> 00:12:48,893
+Who are you calling a dark elf?
+
+202
+00:12:50,352 --> 00:12:53,147
+{\an8}I-I mean, if it was harmless,
+it wouldn't be forbidden, right?
+
+203
+00:12:53,230 --> 00:12:54,398
+Harmless?
+
+204
+00:12:54,482 --> 00:12:56,901
+Even recovery magic
+can be used for torture.
+
+205
+00:12:57,485 --> 00:12:59,945
+Just like a blade,
+it depends on how you use it.
+
+206
+00:13:00,029 --> 00:13:03,407
+I study forbidden arts to benefit people.
+
+207
+00:13:04,116 --> 00:13:06,160
+I have nothing to feel guilty about.
+
+208
+00:13:07,495 --> 00:13:10,080
+{\an8}But concerning the method
+of resurrection I used,
+
+209
+00:13:10,164 --> 00:13:12,583
+{\an8}it's best for all of us
+to forget about it.
+
+210
+00:13:12,666 --> 00:13:14,418
+{\an8}So you do feel guilty about it!
+
+211
+00:13:15,878 --> 00:13:17,421
+Oh, well. Never mind.
+
+212
+00:13:17,505 --> 00:13:19,131
+It's all in the past now.
+
+213
+00:13:20,132 --> 00:13:21,425
+By the way...
+
+214
+00:13:27,515 --> 00:13:28,933
+<i>Where's Senshi?</i>
+
+215
+00:13:29,016 --> 00:13:30,809
+Preparing the dragon meat, I imagine.
+
+216
+00:13:30,893 --> 00:13:35,856
+I just passed Mr. Senshi
+carrying a pot and some firewood.
+
+217
+00:13:35,940 --> 00:13:37,024
+What did I tell you?
+
+218
+00:13:37,107 --> 00:13:38,317
+He's getting ready to cook.
+
+219
+00:13:39,360 --> 00:13:40,694
+Cook...
+
+220
+00:13:41,278 --> 00:13:42,446
+Near the dragon?
+
+221
+00:13:45,032 --> 00:13:46,200
+-This is bad!
+-This is bad!
+
+222
+00:13:46,283 --> 00:13:47,660
+What's wrong?
+
+223
+00:13:47,743 --> 00:13:49,995
+When we opened up the dragon,
+we opened its fuel bag, too.
+
+224
+00:13:50,079 --> 00:13:52,289
+If he starts a fire there now...
+
+225
+00:13:54,166 --> 00:13:55,334
+Senshi!
+
+226
+00:13:55,417 --> 00:13:56,710
+Stop!
+
+227
+00:13:56,794 --> 00:13:58,963
+Senshi!
+
+228
+00:14:14,728 --> 00:14:17,147
+W-We're alive.
+
+229
+00:14:17,731 --> 00:14:19,650
+Is this defense magic?
+
+230
+00:14:24,321 --> 00:14:26,407
+Falin, did you do this?
+
+231
+00:14:27,074 --> 00:14:28,158
+It seems so.
+
+232
+00:14:28,242 --> 00:14:29,243
+In that split second?
+
+233
+00:14:29,326 --> 00:14:30,411
+Without chanting?
+
+234
+00:14:31,453 --> 00:14:32,413
+I don't know.
+
+235
+00:14:33,163 --> 00:14:35,916
+I just felt I had to protect everyone and...
+
+236
+00:14:37,251 --> 00:14:38,419
+That's amazing.
+
+237
+00:14:38,502 --> 00:14:41,130
+Kind of like an adrenaline rush, huh?
+
+238
+00:14:41,213 --> 00:14:44,258
+If only we had that power
+during the fight with the Red Dragon.
+
+239
+00:14:45,634 --> 00:14:48,178
+A-Anyway, you've just been revived,
+
+240
+00:14:48,262 --> 00:14:50,556
+so hold off on using any more magic, okay?
+
+241
+00:14:51,473 --> 00:14:52,933
+That took me by surprise.
+
+242
+00:14:53,017 --> 00:14:56,312
+I told you dragons breathe fire
+with their self-made fuel, right?
+
+243
+00:14:56,937 --> 00:14:58,564
+Your fire ignited that fuel.
+
+244
+00:14:59,064 --> 00:15:00,774
+It won't go out.
+
+245
+00:15:00,858 --> 00:15:03,277
+The fat in its body is burning.
+
+246
+00:15:03,360 --> 00:15:04,570
+It'll eventually go out.
+
+247
+00:15:05,404 --> 00:15:08,240
+Until then,
+I won't be able to get its meat.
+
+248
+00:15:09,241 --> 00:15:10,576
+What a pickle.
+
+249
+00:15:13,829 --> 00:15:15,664
+Maybe I could use that for cooking.
+
+250
+00:15:16,665 --> 00:15:20,836
+Combine flour, yeast, salt,
+and water, and knead well.
+
+251
+00:15:20,920 --> 00:15:22,588
+Let it rest for a while and...
+
+252
+00:15:22,671 --> 00:15:24,089
+In the meantime, go take a bath.
+
+253
+00:15:25,299 --> 00:15:27,593
+Stretch and shape the dough,
+
+254
+00:15:27,676 --> 00:15:29,595
+then add toppings to it.
+
+255
+00:15:30,262 --> 00:15:33,098
+Sprinkle flour on the dragon's skin,
+
+256
+00:15:33,682 --> 00:15:36,101
+then, put them inside the dragon.
+
+257
+00:15:37,061 --> 00:15:38,854
+Cut off the tip of the tail.
+
+258
+00:15:39,521 --> 00:15:40,856
+What a waste!
+
+259
+00:15:40,940 --> 00:15:43,859
+Peel the skin and use it to make a soup.
+
+260
+00:15:43,943 --> 00:15:49,990
+Cut the meat into blocks and sear
+on the hot dragon scales until golden.
+
+261
+00:15:50,074 --> 00:15:51,992
+Then, marinate in sauce.
+
+262
+00:15:56,121 --> 00:15:57,247
+It's done!
+
+263
+00:15:57,331 --> 00:15:58,540
+DRAGON TAIL SOUP
+
+264
+00:15:58,624 --> 00:16:01,502
+ONION PIZZA, ROAST RED DRAGON
+
+265
+00:16:02,836 --> 00:16:04,254
+Looks so good!
+
+266
+00:16:05,923 --> 00:16:06,840
+Can we eat it?
+
+267
+00:16:06,924 --> 00:16:08,217
+-Of course, not!
+-Of course, not!
+
+268
+00:16:18,310 --> 00:16:19,269
+It's delicious!
+
+269
+00:16:19,353 --> 00:16:22,272
+It feels like the first meal
+I had in a long time.
+
+270
+00:16:22,356 --> 00:16:23,190
+Good!
+
+271
+00:16:23,273 --> 00:16:25,234
+It's your turn to eat your fill of it.
+
+272
+00:16:25,317 --> 00:16:26,694
+Oh, well.
+
+273
+00:16:26,777 --> 00:16:28,737
+She seems to be enjoying it, so.
+
+274
+00:16:37,579 --> 00:16:40,582
+It's really chewy,
+but the taste is oddly familiar.
+
+275
+00:16:40,666 --> 00:16:43,002
+What is this taste?
+
+276
+00:16:43,085 --> 00:16:45,045
+It's not quite like beef or pork, though.
+
+277
+00:16:45,671 --> 00:16:47,923
+And this flavor reminds me...
+
+278
+00:16:49,133 --> 00:16:50,759
+a little of Living Armor, don't you think?
+
+279
+00:16:50,843 --> 00:16:51,927
+Does it?
+
+280
+00:16:52,428 --> 00:16:54,805
+It doesn't have that rusty smell, though.
+
+281
+00:16:55,389 --> 00:16:58,142
+And the Kelpie and frog meat
+were more tender.
+
+282
+00:16:58,225 --> 00:17:00,185
+If anything, it's a bit like the Basilisk.
+
+283
+00:17:00,269 --> 00:17:02,062
+What do you think, Laios?
+
+284
+00:17:04,982 --> 00:17:07,067
+I don't know what you're all on about.
+
+285
+00:17:07,151 --> 00:17:08,318
+This vibrant red!
+
+286
+00:17:08,902 --> 00:17:10,070
+This firmness!
+
+287
+00:17:10,654 --> 00:17:11,822
+This rich taste!
+
+288
+00:17:11,905 --> 00:17:14,575
+Each characteristic is like no other!
+
+289
+00:17:14,658 --> 00:17:18,454
+Why compare the taste of dragon
+with other creatures in the first place?
+
+290
+00:17:19,079 --> 00:17:22,207
+This is the taste of a dragon!
+
+291
+00:17:27,421 --> 00:17:28,756
+{\an8}Um, Falin.
+
+292
+00:17:28,839 --> 00:17:31,467
+{\an8}You might have
+already figured this out, but...
+
+293
+00:17:31,550 --> 00:17:34,970
+We couldn't afford to buy food,
+so we made it this far by eating monsters.
+
+294
+00:17:37,097 --> 00:17:38,599
+That's amazing.
+
+295
+00:17:39,266 --> 00:17:40,976
+That's amazing!
+
+296
+00:17:41,560 --> 00:17:42,770
+What monsters did you eat?
+
+297
+00:17:42,853 --> 00:17:45,022
+H-How did you prepare them?
+
+298
+00:17:45,105 --> 00:17:46,565
+Seems like we didn't have to worry.
+
+299
+00:17:46,648 --> 00:17:48,317
+This is exactly what I was afraid of!
+
+300
+00:17:48,901 --> 00:17:50,694
+First, we had a Huge Scorpion and a Slime.
+
+301
+00:17:51,570 --> 00:17:53,072
+We even tried a Walking Mushroom.
+
+302
+00:17:53,155 --> 00:17:54,531
+A Walking Mushroom?
+
+303
+00:17:55,032 --> 00:17:57,618
+We even harvested vegetables from Golems.
+
+304
+00:17:58,827 --> 00:18:00,454
+What about a Fish-man?
+
+305
+00:18:00,537 --> 00:18:02,748
+We didn't try that.
+
+306
+00:18:02,831 --> 00:18:04,750
+But we did eat Living Armor.
+
+307
+00:18:04,833 --> 00:18:06,752
+What?! What part did you eat?
+
+308
+00:18:06,835 --> 00:18:13,300
+Um, it's actually a colony of mollusks
+wearing a shell and...
+
+309
+00:18:13,383 --> 00:18:16,178
+Wouldn't it be simpler
+to just show her the real thing?
+
+310
+00:18:20,307 --> 00:18:21,600
+What's this?
+
+311
+00:18:27,356 --> 00:18:29,691
+{\an8}Why didn't you tell us about it?!
+
+312
+00:18:29,775 --> 00:18:30,984
+{\an8}Sorry.
+
+313
+00:18:32,236 --> 00:18:34,404
+It's cute. Is it a pulmonata?
+
+314
+00:18:38,242 --> 00:18:39,785
+It went back inside.
+
+315
+00:18:43,413 --> 00:18:45,124
+It moves on its own.
+
+316
+00:18:45,207 --> 00:18:46,750
+Seriously?
+
+317
+00:18:46,834 --> 00:18:47,668
+My bad.
+
+318
+00:18:48,252 --> 00:18:51,797
+I planned to keep it temporarily
+until I found another weapon at first.
+
+319
+00:18:51,880 --> 00:18:54,424
+But I kept it because
+of its useful reactions to other monsters.
+
+320
+00:18:55,008 --> 00:18:57,469
+{\an8}So that's how you showed
+really sharp instincts now and then!
+
+321
+00:18:57,553 --> 00:18:59,638
+{\an8}We should've gotten Namari to examine it.
+
+322
+00:18:59,721 --> 00:19:03,809
+In that situation, I agree
+you had no choice but to use the sword.
+
+323
+00:19:03,892 --> 00:19:05,561
+But it shouldn't have been
+a solo decision.
+
+324
+00:19:05,644 --> 00:19:09,606
+The greatest damage
+is the loss of trust from your teammates.
+
+325
+00:19:10,190 --> 00:19:11,358
+It was careless of me.
+
+326
+00:19:11,441 --> 00:19:12,860
+It won't happen again.
+
+327
+00:19:12,943 --> 00:19:14,820
+So, what will you do with it?
+
+328
+00:19:14,903 --> 00:19:17,322
+Until I find another weapon,
+I'd like to keep using it.
+
+329
+00:19:17,906 --> 00:19:20,492
+<i>I could dunk it in water
+and drown the creature.</i>
+
+330
+00:19:20,576 --> 00:19:22,369
+<i>I'd have to disassemble
+the sword to remove it,</i>
+
+331
+00:19:22,452 --> 00:19:24,288
+<i>so it'll probably rot inside, though.</i>
+
+332
+00:19:24,371 --> 00:19:25,455
+<i>That's kinda unpleasant.</i>
+
+333
+00:19:25,539 --> 00:19:27,332
+<i>I suppose we can wait and see for a while.</i>
+
+334
+00:19:27,916 --> 00:19:30,794
+You're the one
+who said monsters are dangerous.
+
+335
+00:19:31,420 --> 00:19:33,839
+It's not like I forgot about that.
+
+336
+00:19:33,922 --> 00:19:35,841
+But I thought I had neutralized it
+
+337
+00:19:35,924 --> 00:19:38,844
+and that I could use it to my advantage.
+
+338
+00:19:38,927 --> 00:19:40,971
+But it didn't pan out.
+
+339
+00:19:41,054 --> 00:19:43,599
+{\an8}I guess it's impossible to use a monster
+while keeping it alive.
+
+340
+00:19:44,808 --> 00:19:46,518
+What does it taste like?
+
+341
+00:19:47,144 --> 00:19:48,103
+Wanna try?
+
+342
+00:19:48,187 --> 00:19:50,230
+Oh, yeah!
+
+343
+00:19:56,570 --> 00:20:01,033
+There are a lot of doors,
+but only two of them lead outside.
+
+344
+00:20:01,116 --> 00:20:02,868
+No need to worry
+about surprise attacks, then.
+
+345
+00:20:07,706 --> 00:20:10,125
+This house seems quite comfortable.
+
+346
+00:20:10,209 --> 00:20:12,377
+The fact it has seven toilets
+raises questions, though.
+
+347
+00:20:12,461 --> 00:20:14,379
+All right. Let's get some sleep here.
+
+348
+00:20:14,463 --> 00:20:15,839
+Hurray!
+
+349
+00:20:15,923 --> 00:20:18,091
+It's been so long
+since I last slept on a bed!
+
+350
+00:20:18,175 --> 00:20:20,677
+We'll still have to use
+our sleeping bags as blankets, though.
+
+351
+00:20:27,893 --> 00:20:30,479
+Sorry for intruding on your home
+without asking.
+
+352
+00:20:30,562 --> 00:20:32,981
+We'll leave as soon as we rest a little.
+
+353
+00:20:33,482 --> 00:20:34,900
+What's the matter?
+
+354
+00:20:35,484 --> 00:20:36,526
+I think she's a resident.
+
+355
+00:20:36,610 --> 00:20:37,903
+She says she'll let us stay.
+
+356
+00:20:38,570 --> 00:20:39,404
+I see.
+
+357
+00:20:39,488 --> 00:20:40,572
+That's great.
+
+358
+00:20:41,990 --> 00:20:45,661
+We're short on sleeping bags,
+so we'll have to share on the way back.
+
+359
+00:20:45,744 --> 00:20:49,373
+We haven't slept in the same bed
+since our school days!
+
+360
+00:20:49,456 --> 00:20:51,041
+I wonder if we'll both fit.
+
+361
+00:20:51,792 --> 00:20:54,795
+I've gotten much bigger since then.
+
+362
+00:20:54,878 --> 00:20:57,256
+You cheeky little!
+
+363
+00:20:59,132 --> 00:21:03,095
+To me, you'll always be my little girl!
+
+364
+00:21:07,015 --> 00:21:09,184
+I'm really glad I got to see you again.
+
+365
+00:21:10,602 --> 00:21:11,770
+Me, too.
+
+366
+00:21:14,940 --> 00:21:17,442
+I'll go say goodnight
+to my brother before bed.
+
+367
+00:21:21,488 --> 00:21:22,364
+Laios.
+
+368
+00:21:23,699 --> 00:21:24,700
+Falin.
+
+369
+00:21:32,791 --> 00:21:33,834
+This scar...
+
+370
+00:21:33,917 --> 00:21:36,003
+You did something reckless, didn't you?
+
+371
+00:21:36,086 --> 00:21:36,962
+Why did you...
+
+372
+00:21:41,300 --> 00:21:44,636
+Just to be clear, you're the one
+who did something reckless first.
+
+373
+00:21:44,720 --> 00:21:46,805
+So it's on you
+that things turned out like this!
+
+374
+00:21:46,888 --> 00:21:47,723
+What?
+
+375
+00:21:47,806 --> 00:21:50,350
+{\an8}Don't ever do something like that again!
+
+376
+00:21:51,059 --> 00:21:53,603
+I can't even recall what I did.
+
+377
+00:22:00,277 --> 00:22:01,778
+I won't do it again.
+
+378
+00:22:05,073 --> 00:22:06,992
+Goodnight, Laios.
+
+379
+00:22:08,285 --> 00:22:09,995
+Goodnight, Falin.
+
+380
+00:24:07,821 --> 00:24:11,950
+{\an8}Subtitle translation by: Ai Matsuoka
+

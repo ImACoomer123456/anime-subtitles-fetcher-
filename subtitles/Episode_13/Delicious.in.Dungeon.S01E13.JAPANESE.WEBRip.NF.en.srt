@@ -1,0 +1,1429 @@
+﻿1
+00:01:34,093 --> 00:01:37,847
+DELICIOUS IN DUNGEON
+
+2
+00:01:42,644 --> 00:01:43,478
+DRAGON BONELESS HAM
+
+3
+00:01:43,561 --> 00:01:46,272
+There's so much meat to process,
+I don't know if we can consume it all.
+
+4
+00:02:20,682 --> 00:02:21,933
+There you are.
+
+5
+00:02:23,852 --> 00:02:25,854
+What's with your form?
+
+6
+00:02:26,521 --> 00:02:29,941
+I thought I assigned you the task
+of searching for His Majesty.
+
+7
+00:02:31,151 --> 00:02:33,903
+{\an8}I don't recall permitting you
+to take a break.
+
+8
+00:02:39,450 --> 00:02:40,994
+What was that noise?
+
+9
+00:02:42,078 --> 00:02:44,247
+Looks like the sword
+I had propped up fell over.
+
+10
+00:02:44,330 --> 00:02:46,958
+You should tie it in place.
+
+11
+00:02:49,127 --> 00:02:50,295
+Falin?
+
+12
+00:02:50,837 --> 00:02:53,214
+Marcille.
+
+13
+00:02:54,757 --> 00:02:56,009
+Where did Falin go?
+
+14
+00:02:57,260 --> 00:02:58,511
+Huh?
+
+15
+00:02:59,178 --> 00:03:01,347
+Senshi, do you know
+where Falin took off to?
+
+16
+00:03:01,431 --> 00:03:03,516
+I haven't seen anyone walk by.
+
+17
+00:03:04,350 --> 00:03:06,769
+What is it? Is something wrong?
+
+18
+00:03:08,146 --> 00:03:09,397
+Don't tell me...
+
+19
+00:03:10,481 --> 00:03:12,609
+she left through this window.
+
+20
+00:03:15,612 --> 00:03:17,071
+I'll go take a look outside.
+
+21
+00:03:17,697 --> 00:03:18,531
+Huh?
+
+22
+00:03:28,124 --> 00:03:29,375
+What the...
+
+23
+00:03:30,627 --> 00:03:31,628
+Falin!
+
+24
+00:03:34,005 --> 00:03:34,881
+Are you okay?
+
+25
+00:03:35,381 --> 00:03:36,674
+What happened...
+
+26
+00:03:39,677 --> 00:03:41,554
+What happened here?
+
+27
+00:03:42,180 --> 00:03:46,309
+{\an8}Lord Delgal... I have to look for him.
+
+28
+00:03:46,392 --> 00:03:48,561
+Delgal? Who's that?
+
+29
+00:03:48,645 --> 00:03:49,896
+Everything...
+
+30
+00:03:50,396 --> 00:03:52,815
+Everything that exists on this earth,
+
+31
+00:03:52,899 --> 00:03:59,405
+every building, gold coin,
+citizen, cattle, blood, flesh...
+
+32
+00:04:00,406 --> 00:04:04,494
+Even the grain of sand beneath your feet,
+
+33
+00:04:05,662 --> 00:04:10,625
+belongs to His Majesty, King Delgal.
+
+34
+00:04:13,670 --> 00:04:15,922
+You dirty thief.
+
+35
+00:04:17,006 --> 00:04:19,425
+I remember spotting you,
+
+36
+00:04:19,926 --> 00:04:22,845
+skulking inside the paintings.
+
+37
+00:04:23,429 --> 00:04:24,389
+<i>He remembers me?</i>
+
+38
+00:04:24,472 --> 00:04:26,015
+<i>The King?</i>
+
+39
+00:04:26,099 --> 00:04:27,684
+<i>Inside the paintings?</i>
+
+40
+00:04:28,184 --> 00:04:31,854
+Who are you? What is your purpose?
+
+41
+00:04:36,317 --> 00:04:38,403
+<i>He's the lord of the dungeon...</i>
+
+42
+00:04:38,987 --> 00:04:40,822
+<i>The lunatic magician!</i>
+
+43
+00:04:44,742 --> 00:04:47,912
+H-Hey, you! Step back!
+
+44
+00:04:47,996 --> 00:04:49,205
+Next time, I won't miss!
+
+45
+00:04:52,250 --> 00:04:55,086
+You damn usurpers!
+
+46
+00:04:56,296 --> 00:04:57,297
+Falin, can you get up?
+
+47
+00:04:57,380 --> 00:04:58,464
+Falin!
+
+48
+00:04:59,841 --> 00:05:00,842
+{\an8}Shut up!
+
+49
+00:05:05,054 --> 00:05:06,597
+{\an8}Laios!
+
+50
+00:05:06,681 --> 00:05:08,349
+What incredible strength.
+
+51
+00:05:09,058 --> 00:05:11,102
+What the hell is going on?
+
+52
+00:05:11,185 --> 00:05:12,603
+Is that guy an adventurer?
+
+53
+00:05:14,939 --> 00:05:16,524
+Huh? What's with the book?
+
+54
+00:05:16,607 --> 00:05:18,609
+I've got a really bad feeling about this.
+
+55
+00:05:18,693 --> 00:05:21,904
+<i>Evunt Ornbam Romfes Roodbam Unt Leshfam.</i>
+
+56
+00:05:21,988 --> 00:05:23,865
+Is it just me,
+or is he chanting something?
+
+57
+00:05:23,948 --> 00:05:27,535
+<i>Evunt Ornbam Romfes Roodbam Unt Leshfam.</i>
+
+58
+00:05:27,618 --> 00:05:29,120
+This incantation...
+
+59
+00:05:29,203 --> 00:05:33,624
+<i>Evunt Ornbam Romfes Roodbam Unt Leshfam.</i>
+
+60
+00:05:34,208 --> 00:05:35,501
+<i>It's ancient magic!</i>
+
+61
+00:05:35,585 --> 00:05:36,878
+Devour!
+
+62
+00:05:46,012 --> 00:05:48,431
+<i>Explosive spells, defense magic,</i>
+
+63
+00:05:48,514 --> 00:05:50,558
+<i>none of that can halt this attack!</i>
+
+64
+00:05:50,641 --> 00:05:51,934
+<i>In that case...</i>
+
+65
+00:05:58,024 --> 00:06:00,568
+<i>I'll directly overwrite the spell!</i>
+
+66
+00:06:08,534 --> 00:06:09,452
+Cancel!
+
+67
+00:06:14,957 --> 00:06:18,002
+Cancel!
+
+68
+00:06:18,586 --> 00:06:20,338
+<i>This ancient magic...</i>
+
+69
+00:06:20,421 --> 00:06:23,341
+<i>I can understand and decipher it, but!</i>
+
+70
+00:06:27,845 --> 00:06:30,014
+<i>I can't keep up with it!</i>
+
+71
+00:06:33,101 --> 00:06:35,520
+BONELESS DRAGON HAM
+
+72
+00:06:37,605 --> 00:06:41,526
+BONELESS DRAGON HAM
+
+73
+00:06:50,326 --> 00:06:53,788
+A-Are you the maker of this dungeon?
+
+74
+00:06:54,705 --> 00:06:57,041
+I'd like to have a chat with...
+
+75
+00:07:17,645 --> 00:07:19,313
+No need to fear.
+
+76
+00:07:19,397 --> 00:07:21,315
+The traitors have gone.
+
+77
+00:07:23,151 --> 00:07:25,570
+His Majesty will return soon.
+
+78
+00:07:26,154 --> 00:07:28,364
+When he does,
+let us hold a grand celebration.
+
+79
+00:07:30,783 --> 00:07:31,951
+Hey, Dragon.
+
+80
+00:07:35,037 --> 00:07:36,956
+This form must be inconvenient for you.
+
+81
+00:07:37,039 --> 00:07:40,209
+I'll provide you with a new one.
+
+82
+00:07:48,926 --> 00:07:50,720
+Do what needs to be done.
+
+83
+00:07:52,805 --> 00:07:53,973
+As you command.
+
+84
+00:07:56,851 --> 00:07:58,394
+Ow.
+
+85
+00:07:58,478 --> 00:07:59,812
+What's going on?
+
+86
+00:07:59,896 --> 00:08:02,398
+Hold on, I'll provide light.
+
+87
+00:08:06,402 --> 00:08:07,737
+What is this place?
+
+88
+00:08:07,820 --> 00:08:10,323
+{\an8}Where did we fall from, anyway?
+
+89
+00:08:10,990 --> 00:08:12,992
+{\an8}What the heck? Where's the exit...
+
+90
+00:08:15,286 --> 00:08:16,245
+What now?
+
+91
+00:08:16,996 --> 00:08:18,789
+I think the walls are closing in!
+
+92
+00:08:18,873 --> 00:08:20,500
+You've got to be kidding me! Dammit!
+
+93
+00:08:20,583 --> 00:08:22,335
+The exit! Search for an exit!
+
+94
+00:08:22,418 --> 00:08:23,628
+Where?!
+
+95
+00:08:23,711 --> 00:08:25,004
+Can't you magic us out of here?
+
+96
+00:08:25,087 --> 00:08:27,256
+Using what magic exactly?
+
+97
+00:08:36,057 --> 00:08:36,891
+<i>We're going to die.</i>
+
+98
+00:08:37,558 --> 00:08:39,435
+<i>It's not my first time dying,</i>
+
+99
+00:08:39,519 --> 00:08:41,646
+<i>but no one will find us
+under these stones.</i>
+
+100
+00:08:42,980 --> 00:08:45,107
+<i>I finally reunited with Falin</i>
+
+101
+00:08:45,191 --> 00:08:47,568
+<i>and took a step closer
+to unraveling the dungeon's mystery.</i>
+
+102
+00:08:47,652 --> 00:08:50,154
+<i>Now all of that is going to mean nothing!</i>
+
+103
+00:08:50,238 --> 00:08:52,990
+<i>I don't want to die like this!</i>
+
+104
+00:08:57,286 --> 00:08:58,454
+Marcille!
+
+105
+00:09:00,581 --> 00:09:03,042
+It's a hole! We can escape through here!
+
+106
+00:09:03,751 --> 00:09:06,003
+We don't know where it leads!
+
+107
+00:09:06,087 --> 00:09:08,047
+Anything's better than getting squashed!
+
+108
+00:09:08,631 --> 00:09:10,550
+Just hurry!
+
+109
+00:09:19,267 --> 00:09:20,768
+Where are we?
+
+110
+00:09:21,310 --> 00:09:22,436
+It's freezing!
+
+111
+00:09:23,980 --> 00:09:26,440
+Anyway, we've got to get out of here.
+
+112
+00:09:26,524 --> 00:09:27,441
+Not happening.
+
+113
+00:09:27,525 --> 00:09:31,153
+I can't even budge a finger.
+
+114
+00:09:31,237 --> 00:09:32,947
+You have to try.
+
+115
+00:09:33,030 --> 00:09:35,032
+If that guy finds us again...
+
+116
+00:09:43,749 --> 00:09:44,875
+<i>We're toast.</i>
+
+117
+00:09:57,555 --> 00:09:59,473
+T-They vanished.
+
+118
+00:09:59,557 --> 00:10:03,102
+Damn, it feels like
+my head's about to explode.
+
+119
+00:10:04,729 --> 00:10:07,356
+Senshi, wake Laios up.
+
+120
+00:10:08,024 --> 00:10:10,026
+I'll scout around this area.
+
+121
+00:10:16,157 --> 00:10:17,199
+Get him!
+
+122
+00:10:17,283 --> 00:10:19,035
+Where did these bastards sneak in from?
+
+123
+00:10:19,535 --> 00:10:20,870
+There's a long-ears too!
+
+124
+00:10:21,454 --> 00:10:23,205
+-He went that way!
+-You little!
+
+125
+00:10:23,831 --> 00:10:25,374
+Quiet!
+
+126
+00:10:25,958 --> 00:10:26,792
+What's the matter?
+
+127
+00:10:26,876 --> 00:10:28,377
+Moles, Captain.
+
+128
+00:10:28,461 --> 00:10:30,171
+How did they get in?
+
+129
+00:10:30,254 --> 00:10:31,964
+What were the guards doing?
+
+130
+00:10:32,465 --> 00:10:34,925
+{\an8}We're not sure.
+
+131
+00:10:35,009 --> 00:10:36,427
+{\an8}<i>The hole is sealed.</i>
+
+132
+00:10:36,510 --> 00:10:37,887
+{\an8}Whatever.
+
+133
+00:10:38,471 --> 00:10:39,555
+A little man,
+
+134
+00:10:40,222 --> 00:10:41,891
+a depths-dweller,
+
+135
+00:10:42,475 --> 00:10:45,394
+a long-legs, and a long-ears!
+
+136
+00:10:45,478 --> 00:10:47,063
+Interesting.
+
+137
+00:10:47,146 --> 00:10:50,775
+I've never killed a long-ears before.
+I'll handle it.
+
+138
+00:10:51,359 --> 00:10:53,277
+Give the little man to the dogs.
+
+139
+00:10:53,361 --> 00:10:55,279
+They're craving some entertainment.
+
+140
+00:10:55,863 --> 00:10:56,697
+Wait.
+
+141
+00:10:56,781 --> 00:11:00,534
+You are Chief Zon's sister, aren't you?
+
+142
+00:11:00,618 --> 00:11:05,081
+We have come to fulfill
+our promise to your chief.
+
+143
+00:11:05,164 --> 00:11:07,291
+We ask that you treat us kindly.
+
+144
+00:11:08,376 --> 00:11:10,044
+{\an8}How do you know that name?
+
+145
+00:11:10,961 --> 00:11:12,129
+Huh?
+
+146
+00:11:15,007 --> 00:11:16,926
+You're the vegetable seller!
+
+147
+00:11:17,009 --> 00:11:19,678
+You smelled different,
+so we didn't recognize you!
+
+148
+00:11:20,262 --> 00:11:23,182
+What brings you all the way down here?
+
+149
+00:11:23,265 --> 00:11:25,726
+{\an8}What promise did you make to our Chief?
+
+150
+00:11:27,812 --> 00:11:28,687
+I see.
+
+151
+00:11:29,313 --> 00:11:31,524
+So that's what happened.
+
+152
+00:11:31,607 --> 00:11:35,611
+I was curious why the Dragon
+had disappeared all of a sudden.
+
+153
+00:11:36,278 --> 00:11:38,989
+I thank you on behalf of the Chief.
+
+154
+00:11:39,073 --> 00:11:40,533
+Prepare the concoction.
+
+155
+00:11:49,166 --> 00:11:50,376
+It's ready.
+
+156
+00:11:50,459 --> 00:11:53,087
+ORC CONCOCTION
+
+157
+00:12:12,106 --> 00:12:13,232
+U-Um...
+
+158
+00:12:14,525 --> 00:12:16,110
+I'm just...
+
+159
+00:12:16,861 --> 00:12:18,487
+out of...
+
+160
+00:12:19,530 --> 00:12:20,614
+magic...
+
+161
+00:12:28,539 --> 00:12:29,748
+H-Hey.
+
+162
+00:12:29,832 --> 00:12:32,626
+We were attacked by an elf magician.
+
+163
+00:12:33,836 --> 00:12:35,629
+Do you know anything about him?
+
+164
+00:12:35,713 --> 00:12:36,964
+You've encountered him?
+
+165
+00:12:37,673 --> 00:12:40,843
+He had brown skin and silver hair...
+
+166
+00:12:40,926 --> 00:12:41,886
+That's the one.
+
+167
+00:12:42,595 --> 00:12:44,638
+We don't know a lot about him.
+
+168
+00:12:45,222 --> 00:12:48,392
+He's been around
+long before we settled here.
+
+169
+00:12:48,476 --> 00:12:50,644
+And it seems he's the one
+governing this dungeon.
+
+170
+00:12:51,228 --> 00:12:55,399
+Whenever outsiders
+excessively meddle with the dungeon,
+
+171
+00:12:55,483 --> 00:12:57,401
+that's when he shows up.
+
+172
+00:12:58,027 --> 00:13:02,239
+<i>He creates monsters,
+controls them at will, alters the terrain,</i>
+
+173
+00:13:02,323 --> 00:13:05,493
+<i>and can kill any creature
+by simply flipping through his book.</i>
+
+174
+00:13:06,535 --> 00:13:08,913
+{\an8}The ruler of the dungeon...
+
+175
+00:13:08,996 --> 00:13:09,914
+{\an8}That means...
+
+176
+00:13:10,498 --> 00:13:14,418
+we've caught the attention
+of the lunatic magician!
+
+177
+00:13:14,502 --> 00:13:15,753
+That's no joke!
+
+178
+00:13:15,836 --> 00:13:18,506
+Damn, we've got to get out of here fast!
+
+179
+00:13:19,006 --> 00:13:21,467
+Was it Marcille's magic that lured him?
+
+180
+00:13:21,550 --> 00:13:23,928
+No, maybe it's because
+we took down the Red Dragon.
+
+181
+00:13:24,762 --> 00:13:27,806
+He has a few monsters under his command,
+
+182
+00:13:27,890 --> 00:13:30,684
+and when you kill them,
+you end up ticking him off.
+
+183
+00:13:30,768 --> 00:13:32,811
+So that's what my brother
+was worried about,
+
+184
+00:13:32,895 --> 00:13:37,191
+and why he warned us not to mess
+with the Red Dragon.
+
+185
+00:13:37,775 --> 00:13:39,610
+My brother is always right.
+
+186
+00:13:39,693 --> 00:13:41,153
+<i>That bastard!</i>
+
+187
+00:13:41,654 --> 00:13:45,824
+Once these two wake up,
+they'll want to find Falin for sure.
+
+188
+00:13:45,908 --> 00:13:48,327
+But I have to make them give up somehow.
+
+189
+00:13:48,911 --> 00:13:50,079
+How?
+
+190
+00:13:50,162 --> 00:13:51,580
+Anything that does the trick!
+
+191
+00:13:51,664 --> 00:13:52,915
+We can burn Marcille's staff
+
+192
+00:13:52,998 --> 00:13:55,334
+or tell them we spotted Falin
+heading to the surface.
+
+193
+00:13:55,417 --> 00:13:58,754
+Or that we should be content
+after having Dragon meat.
+
+194
+00:13:59,755 --> 00:14:01,715
+{\an8}So, you're proposing we deceive them?
+
+195
+00:14:01,799 --> 00:14:03,175
+I am!
+
+196
+00:14:03,259 --> 00:14:06,720
+Otherwise, these idiots
+would never let it go!
+
+197
+00:14:06,804 --> 00:14:10,015
+If we go any deeper,
+we're definitely going to get killed.
+
+198
+00:14:10,099 --> 00:14:11,725
+Do you want to become a part of the wall?
+
+199
+00:14:11,809 --> 00:14:13,477
+Because I sure don't!
+
+200
+00:14:20,067 --> 00:14:23,112
+{\an8}I have no intention of joining them
+just to end up dead.
+
+201
+00:14:24,655 --> 00:14:25,739
+Hey,
+
+202
+00:14:25,823 --> 00:14:28,367
+I want to go retrieve my stuff
+that I left behind.
+
+203
+00:14:29,034 --> 00:14:30,995
+Could you show me the way?
+
+204
+00:14:33,581 --> 00:14:34,832
+No way.
+
+205
+00:14:34,915 --> 00:14:37,751
+I don't want the stench of spinelessness
+rubbing off on me.
+
+206
+00:14:39,336 --> 00:14:41,338
+I ask you as well.
+
+207
+00:14:41,422 --> 00:14:43,257
+Please take him there.
+
+208
+00:14:43,340 --> 00:14:46,385
+{\an8}He might be faint-hearted,
+but he's not a bad fellow.
+
+209
+00:14:46,468 --> 00:14:49,013
+{\an8}Senshi, aren't you coming with me?
+
+210
+00:14:49,597 --> 00:14:52,641
+One of us should stay with those two.
+
+211
+00:14:52,725 --> 00:14:53,809
+But...
+
+212
+00:14:58,230 --> 00:15:00,649
+You know I can't say no to you.
+
+213
+00:15:00,733 --> 00:15:03,736
+I'd rather not, but I'll show him the way.
+
+214
+00:15:11,035 --> 00:15:11,952
+<i>Damn it.</i>
+
+215
+00:15:12,494 --> 00:15:15,623
+<i>They're a bunch of fools,
+every last one of them!</i>
+
+216
+00:15:16,123 --> 00:15:18,083
+Did you get separated from a companion?
+
+217
+00:15:18,792 --> 00:15:19,919
+Yeah.
+
+218
+00:15:20,502 --> 00:15:24,548
+The last we saw of her, she was lying
+on the ground near the magician's feet.
+
+219
+00:15:24,632 --> 00:15:26,926
+It's tough to be hopeful about that.
+
+220
+00:15:27,718 --> 00:15:30,763
+That doesn't justify
+lying to your friends.
+
+221
+00:15:32,014 --> 00:15:34,350
+Easy for someone on the outside to say.
+
+222
+00:15:35,392 --> 00:15:37,227
+No, forget I said that!
+
+223
+00:15:37,895 --> 00:15:39,021
+Behind you.
+
+224
+00:15:39,605 --> 00:15:40,439
+Huh?
+
+225
+00:15:46,403 --> 00:15:47,279
+Don't panic.
+
+226
+00:15:47,363 --> 00:15:48,197
+It's cold!
+
+227
+00:15:48,781 --> 00:15:50,783
+That's one of the city's residents.
+
+228
+00:15:51,283 --> 00:15:54,370
+The spirits here are still sane
+
+229
+00:15:54,453 --> 00:15:57,122
+and only appear when they want to be seen.
+
+230
+00:15:58,290 --> 00:16:00,417
+The routes they take are safe.
+
+231
+00:16:00,501 --> 00:16:01,585
+Let's follow.
+
+232
+00:16:01,669 --> 00:16:02,544
+Huh?
+
+233
+00:16:05,547 --> 00:16:06,715
+You better be right.
+
+234
+00:16:18,018 --> 00:16:20,646
+{\an8}That's the place
+we were at a little while ago.
+
+235
+00:16:21,146 --> 00:16:23,315
+The Red Dragon is gone.
+
+236
+00:16:24,191 --> 00:16:27,152
+It didn't resurrect, did it?
+
+237
+00:16:27,236 --> 00:16:28,070
+No.
+
+238
+00:16:28,153 --> 00:16:31,156
+{\an8}The dogs aren't on high alert.
+
+239
+00:16:31,240 --> 00:16:34,326
+{\an8}Either the magician made it disappear
+or took it with him.
+
+240
+00:16:34,410 --> 00:16:37,162
+There are traces of an explosion, though.
+
+241
+00:16:37,246 --> 00:16:41,083
+We started a fire near
+the Dragon's fuel bag, and it ignited.
+
+242
+00:16:41,166 --> 00:16:43,085
+I'm surprised you survived that.
+
+243
+00:16:43,669 --> 00:16:47,548
+One of our party members
+quickly shielded us with defense magic,
+
+244
+00:16:47,631 --> 00:16:49,216
+<i>so we were unharmed.</i>
+
+245
+00:16:49,299 --> 00:16:51,677
+You're lucky to have such friends.
+
+246
+00:16:52,177 --> 00:16:54,596
+You're not getting it.
+
+247
+00:16:54,680 --> 00:16:58,142
+Even she didn't know
+she could use that magic.
+
+248
+00:16:58,225 --> 00:17:00,728
+We could've all blown up, healer included.
+
+249
+00:17:01,770 --> 00:17:03,856
+Ultimately, the magic worked,
+
+250
+00:17:03,939 --> 00:17:06,650
+but if it had failed,
+it would have made her a fool.
+
+251
+00:17:07,818 --> 00:17:09,486
+They're all like that.
+
+252
+00:17:12,823 --> 00:17:17,244
+How did you manage to defeat
+the Red Dragon on your own, anyway?
+
+253
+00:17:18,370 --> 00:17:23,208
+{\an8}Senshi and I distracted it,
+and Laios, the tall-man in our party,
+
+254
+00:17:23,292 --> 00:17:26,587
+{\an8}jumped into the Red Dragon's chest
+and struck its weak point.
+
+255
+00:17:27,087 --> 00:17:28,630
+That's impressive.
+
+256
+00:17:28,714 --> 00:17:32,259
+A warrior should have courage.
+
+257
+00:17:32,885 --> 00:17:34,595
+<i>It wasn't courage.</i>
+
+258
+00:17:35,095 --> 00:17:38,891
+{\an8}It turned out okay,
+but it was a stupid gamble.
+
+259
+00:17:39,600 --> 00:17:41,810
+<i>Honestly, it sent shivers down my spine.</i>
+
+260
+00:17:41,894 --> 00:17:45,105
+<i>Someone who'd make that kind of call,
+there's no telling where they'll end up!</i>
+
+261
+00:17:46,106 --> 00:17:48,734
+<i>There were a few members
+who left our party,</i>
+
+262
+00:17:50,861 --> 00:17:54,573
+but looking back,
+maybe they were the smarter ones.
+
+263
+00:17:55,574 --> 00:17:58,911
+I should have been less stubborn
+and followed suit as well.
+
+264
+00:18:00,370 --> 00:18:04,291
+Are you saying it would have been better
+to lose your friends?
+
+265
+00:18:06,293 --> 00:18:07,127
+I don't know.
+
+266
+00:18:07,711 --> 00:18:11,507
+{\an8}Maybe my decision to join Laios
+
+267
+00:18:11,590 --> 00:18:14,176
+made it harder for him to back out.
+
+268
+00:18:16,095 --> 00:18:18,555
+Anyway, what happened after that?
+
+269
+00:18:19,348 --> 00:18:22,017
+We healed our wounds
+and patched ourselves up.
+
+270
+00:18:23,060 --> 00:18:24,269
+And in this room...
+
+271
+00:18:29,358 --> 00:18:31,985
+We cooked up the Dragon's meat and ate it.
+
+272
+00:18:32,069 --> 00:18:33,070
+As you should.
+
+273
+00:18:33,153 --> 00:18:35,447
+It's your rightful reward
+for bringing it down.
+
+274
+00:18:39,201 --> 00:18:41,787
+Was it after that
+when the magician showed up?
+
+275
+00:18:41,870 --> 00:18:44,581
+How did you manage
+to survive the encounter?
+
+276
+00:18:45,833 --> 00:18:49,545
+The mage in our party
+held up against his attacks.
+
+277
+00:18:50,129 --> 00:18:51,797
+That long-ears?
+
+278
+00:18:51,880 --> 00:18:54,258
+She seemed so clueless, though.
+
+279
+00:18:54,341 --> 00:18:56,051
+{\an8}Trust me, she is.
+
+280
+00:18:56,135 --> 00:18:58,303
+She used some shady magic back there.
+
+281
+00:18:58,387 --> 00:19:02,766
+Even if she makes it out of the dungeon,
+I doubt she could lead a decent life.
+
+282
+00:19:03,517 --> 00:19:07,437
+They're stupid idiots.
+Every last one of them.
+
+283
+00:19:08,021 --> 00:19:09,273
+{\an8}They're a bunch of fools.
+
+284
+00:19:09,773 --> 00:19:12,776
+They believe that if they
+try hard enough, they'll be rewarded.
+
+285
+00:19:12,860 --> 00:19:15,988
+How am I supposed to reason
+with folks like that?
+
+286
+00:19:16,780 --> 00:19:18,699
+So, you're going to trick them?
+
+287
+00:19:18,782 --> 00:19:21,160
+There must be a better way.
+
+288
+00:19:22,536 --> 00:19:26,039
+If a couple of lies get me back
+on the surface, I'm all for it!
+
+289
+00:19:26,123 --> 00:19:27,457
+I'm a coward, after all!
+
+290
+00:19:27,541 --> 00:19:30,419
+My life comes first, over everything!
+
+291
+00:19:31,044 --> 00:19:32,671
+Don't be like that.
+
+292
+00:19:35,048 --> 00:19:37,843
+Just admit you don't want to see them die.
+
+293
+00:19:51,190 --> 00:19:53,442
+What's this sucker doing here?
+
+294
+00:19:53,942 --> 00:19:56,653
+Did it crawl all the way up here?
+
+295
+00:20:02,201 --> 00:20:05,537
+Turns out, you were the smartest among us.
+
+296
+00:20:09,625 --> 00:20:10,959
+<i>Bloodstains...</i>
+
+297
+00:20:11,960 --> 00:20:13,879
+Like someone dragged a body along...
+
+298
+00:20:14,546 --> 00:20:15,631
+Hey.
+
+299
+00:20:15,714 --> 00:20:16,965
+Do you want to be left behind?
+
+300
+00:20:17,466 --> 00:20:19,092
+C-Coming.
+
+301
+00:20:25,599 --> 00:20:27,601
+I grabbed our stuff.
+
+302
+00:20:30,229 --> 00:20:32,231
+What do you think you're doing?!
+
+303
+00:20:32,314 --> 00:20:33,857
+You need to stay put!
+
+304
+00:20:33,941 --> 00:20:35,150
+I'm not feeling any pain.
+
+305
+00:20:35,234 --> 00:20:38,028
+That's because the medicine
+is messing with your sense of pain!
+
+306
+00:20:38,111 --> 00:20:40,864
+{\an8}Falin should still be nearby!
+
+307
+00:20:42,115 --> 00:20:44,034
+Calm down.
+
+308
+00:20:50,457 --> 00:20:52,000
+I've got something to say to you both.
+
+309
+00:20:53,001 --> 00:20:55,921
+Chilchuck, I've been thinking, and...
+
+310
+00:20:56,588 --> 00:20:58,632
+Let me go first.
+
+311
+00:21:00,801 --> 00:21:01,760
+Laios,
+
+312
+00:21:03,011 --> 00:21:06,682
+I can't even begin to imagine
+how you must be feeling.
+
+313
+00:21:07,266 --> 00:21:10,936
+{\an8}But we can't continue
+the search like this.
+
+314
+00:21:12,271 --> 00:21:15,440
+{\an8}It's going to end up
+with one of us kicking the bucket.
+
+315
+00:21:16,775 --> 00:21:18,610
+Please, Laios.
+
+316
+00:21:20,570 --> 00:21:23,198
+{\an8}Please be strong for now
+and head back above ground!
+
+317
+00:21:23,282 --> 00:21:25,826
+I don't want to lose you guys!
+
+318
+00:21:25,909 --> 00:21:29,121
+My feelings might not match
+the affection you have for your sister,
+
+319
+00:21:29,204 --> 00:21:30,706
+but I've got the three of you to lose!
+
+320
+00:21:30,789 --> 00:21:33,208
+Informing the Lord of the Island
+about the lunatic magician
+
+321
+00:21:33,292 --> 00:21:34,418
+may prompt some action.
+
+322
+00:21:34,501 --> 00:21:37,087
+Maybe we could gather funds
+to enlist help!
+
+323
+00:21:37,170 --> 00:21:41,174
+{\an8}With enough preparation,
+we can reach this level quicker next time!
+
+324
+00:21:42,175 --> 00:21:44,970
+So, please...
+
+325
+00:21:46,555 --> 00:21:49,349
+Let's head back, Laios.
+
+326
+00:21:53,645 --> 00:21:55,355
+To tell you the truth,
+
+327
+00:21:55,439 --> 00:21:59,860
+we're running short
+on seasoning and other ingredients.
+
+328
+00:22:00,444 --> 00:22:04,239
+I want to make sure we can whip up
+something delicious for Falin.
+
+329
+00:22:04,323 --> 00:22:07,117
+We should head back to the city
+and replenish our supplies.
+
+330
+00:22:09,619 --> 00:22:12,205
+I've sent word
+that the Red Dragon's been slain.
+
+331
+00:22:13,206 --> 00:22:15,125
+My brother should return
+with the others soon.
+
+332
+00:22:15,625 --> 00:22:19,629
+When you're ready and return down here,
+
+333
+00:22:20,255 --> 00:22:23,425
+we'll do what we can to help you out.
+
+334
+00:22:26,803 --> 00:22:27,721
+{\an8}All right.
+
+335
+00:22:30,891 --> 00:22:33,435
+Forgive me for making you worry.
+
+336
+00:22:34,811 --> 00:22:36,897
+Let's head back.
+
+337
+00:22:38,940 --> 00:22:39,816
+Yeah.
+
+338
+00:24:07,821 --> 00:24:10,949
+{\an8}Subtitle translation by: Ai Matsuoka
+

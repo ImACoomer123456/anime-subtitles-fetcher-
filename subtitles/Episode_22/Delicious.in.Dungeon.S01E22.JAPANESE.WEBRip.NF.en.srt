@@ -1,0 +1,1690 @@
+﻿1
+00:00:32,949 --> 00:00:34,826
+DELICIOUS IN DUNGEON
+
+2
+00:01:48,233 --> 00:01:50,026
+<i>I smell something good.</i>
+
+3
+00:01:55,156 --> 00:01:56,324
+Senshi?
+
+4
+00:02:02,455 --> 00:02:03,915
+There he is.
+
+5
+00:02:03,998 --> 00:02:05,875
+I see you woke up.
+
+6
+00:02:05,959 --> 00:02:07,252
+Good morning.
+
+7
+00:02:07,877 --> 00:02:09,420
+You made breakfast?
+
+8
+00:02:09,504 --> 00:02:12,674
+Senshi is a very fine cook.
+
+9
+00:02:12,757 --> 00:02:14,384
+He really is.
+
+10
+00:02:14,467 --> 00:02:16,010
+Senshi is amazing.
+
+11
+00:02:16,511 --> 00:02:20,431
+BREAKFAST PREPARED BY SENSHI
+
+12
+00:02:26,479 --> 00:02:28,189
+So good!
+
+13
+00:02:28,273 --> 00:02:30,900
+Yaad, would you like to try some?
+
+14
+00:02:31,985 --> 00:02:33,987
+But I can't taste...
+
+15
+00:02:34,070 --> 00:02:35,155
+Here.
+
+16
+00:02:43,329 --> 00:02:45,999
+It's warm and soft.
+
+17
+00:02:46,082 --> 00:02:49,294
+Your sense of taste is like a muscle.
+
+18
+00:02:49,377 --> 00:02:52,005
+If you don't use it, it weakens.
+
+19
+00:02:52,088 --> 00:02:55,925
+Start by savoring the texture.
+
+20
+00:02:56,009 --> 00:02:57,010
+Right.
+
+21
+00:02:57,093 --> 00:02:58,720
+Oh, look at you.
+
+22
+00:03:03,099 --> 00:03:04,726
+Long ago, every now and then,
+
+23
+00:03:04,809 --> 00:03:07,770
+I used to sit at the table like this
+with my grandfather and parents.
+
+24
+00:03:08,354 --> 00:03:10,690
+<i>Always beside my grandfather
+stood Thistle,</i>
+
+25
+00:03:11,733 --> 00:03:13,985
+<i>the lunatic magician.</i>
+
+26
+00:03:14,861 --> 00:03:18,323
+<i>My great-grandfather originally
+welcomed him into the castle as a jester.</i>
+
+27
+00:03:19,198 --> 00:03:22,285
+<i>They say my grandfather and Thistle
+were raised together like brothers.</i>
+
+28
+00:03:22,368 --> 00:03:26,122
+<i>When my grandfather ascended the throne,
+he encouraged Thistle to study magic.</i>
+
+29
+00:03:26,205 --> 00:03:28,207
+<i>And Thistle began to distinguish himself.</i>
+
+30
+00:03:29,417 --> 00:03:32,879
+<i>Our realm was once abundant
+with relics from dwarves and elves,</i>
+
+31
+00:03:33,546 --> 00:03:35,798
+<i>likely including items of black magic.</i>
+
+32
+00:03:37,008 --> 00:03:39,844
+<i>Thistle's thirst for power consumed him
+and drove him toward madness.</i>
+
+33
+00:03:39,928 --> 00:03:43,264
+<i>Ultimately, he cast a spell of immortality
+over the kingdom.</i>
+
+34
+00:03:43,890 --> 00:03:46,226
+I actually want to talk to him.
+
+35
+00:03:47,060 --> 00:03:48,561
+Where can I meet him?
+
+36
+00:03:48,645 --> 00:03:50,104
+Talk to him?
+
+37
+00:03:50,188 --> 00:03:52,023
+Absolutely not!
+
+38
+00:03:52,607 --> 00:03:54,817
+Having a conversation with him
+is impossible.
+
+39
+00:03:54,901 --> 00:03:58,238
+<i>It was a struggle just to let
+my grandfather slip away unnoticed.</i>
+
+40
+00:03:58,738 --> 00:04:01,449
+<i>Some were even put to death
+on suspicion of aiding him.</i>
+
+41
+00:04:02,617 --> 00:04:04,452
+Simply meeting the magician
+is easy enough.
+
+42
+00:04:05,036 --> 00:04:09,165
+<i>The magician's eyes are
+sensing something amiss in this village.</i>
+
+43
+00:04:09,249 --> 00:04:11,918
+<i>It's only a matter of time
+before he arrives himself.</i>
+
+44
+00:04:13,294 --> 00:04:16,339
+<i>This dungeon is like his arms and legs.</i>
+
+45
+00:04:17,131 --> 00:04:19,384
+<i>You're familiar
+with his terrifying power, aren't you?</i>
+
+46
+00:04:20,551 --> 00:04:22,595
+But I still need to try.
+
+47
+00:04:23,846 --> 00:04:26,099
+I don't know if you can have
+a conversation with him.
+
+48
+00:04:26,683 --> 00:04:30,603
+<i>But seek the aid of the Winged Lion
+imprisoned in the depths of the dungeon.</i>
+
+49
+00:04:31,271 --> 00:04:33,898
+<i>You should be able
+to subdue the magician's power.</i>
+
+50
+00:04:39,445 --> 00:04:41,948
+This passage will lead you
+within the castle walls,
+
+51
+00:04:42,031 --> 00:04:44,742
+taking you back to the dungeon.
+
+52
+00:04:44,826 --> 00:04:46,953
+Please take this!
+
+53
+00:04:47,662 --> 00:04:48,621
+Thank you.
+
+54
+00:04:48,705 --> 00:04:53,418
+{\an8}Don't give them too much,
+or it will burden the carriers.
+
+55
+00:04:53,501 --> 00:04:54,627
+{\an8}The carriers?
+
+56
+00:04:54,711 --> 00:04:58,339
+{\an8}I'll have them take you back
+the same way they brought you here.
+
+57
+00:05:00,967 --> 00:05:02,844
+Thank you. We owe you.
+
+58
+00:05:03,636 --> 00:05:04,721
+Good luck.
+
+59
+00:05:11,602 --> 00:05:15,815
+I know I shouldn't say this,
+but are they really the ones?
+
+60
+00:05:16,316 --> 00:05:17,775
+I'd like to think so.
+
+61
+00:05:22,113 --> 00:05:23,239
+Yaad.
+
+62
+00:05:23,323 --> 00:05:24,907
+T-Thistle!
+
+63
+00:05:25,950 --> 00:05:28,786
+Who were you talking to just now?
+
+64
+00:05:34,667 --> 00:05:36,669
+For the umpteenth time!
+
+65
+00:05:36,753 --> 00:05:37,837
+This place...
+
+66
+00:05:37,920 --> 00:05:39,505
+Ow...
+
+67
+00:05:40,006 --> 00:05:42,467
+{\an8}It's a reservoir
+crafted by ancient dwarves.
+
+68
+00:05:42,550 --> 00:05:45,720
+{\an8}That insanely huge place, right?
+Which section of it are we now?
+
+69
+00:05:46,804 --> 00:05:48,473
+My compass isn't working.
+
+70
+00:05:48,556 --> 00:05:52,602
+Dwarves do cunning stuff like that.
+
+71
+00:05:52,685 --> 00:05:55,480
+Apparently, it was also once
+a defensive stronghold.
+
+72
+00:05:56,064 --> 00:05:57,023
+<i>Dwarves...</i>
+
+73
+00:05:58,566 --> 00:06:00,860
+Senshi, are you feeling
+teleportation sickness?
+
+74
+00:06:00,943 --> 00:06:04,363
+Given dwarves' sensitive
+semicircular canals, it's quite common.
+
+75
+00:06:04,447 --> 00:06:06,699
+Do gnomes suffer from it as well?
+
+76
+00:06:06,783 --> 00:06:09,243
+I think they get mana sickness too.
+
+77
+00:06:10,328 --> 00:06:11,746
+Where am I?
+
+78
+00:06:12,371 --> 00:06:13,414
+Are you back to yourself?
+
+79
+00:06:13,498 --> 00:06:15,249
+W-What...
+
+80
+00:06:18,336 --> 00:06:19,420
+Are you okay?
+
+81
+00:06:19,921 --> 00:06:21,506
+Rest there a little.
+
+82
+00:06:21,589 --> 00:06:23,257
+We'll go explore the area.
+
+83
+00:06:26,844 --> 00:06:28,012
+Chil.
+
+84
+00:06:28,096 --> 00:06:30,515
+Can you see these marks here?
+
+85
+00:06:32,225 --> 00:06:34,894
+Yeah, I see them.
+
+86
+00:06:34,977 --> 00:06:38,064
+I need you to draw the symbols
+on the pillars surrounding us.
+
+87
+00:06:38,147 --> 00:06:40,525
+It will aid us in estimating
+our approximate location.
+
+88
+00:06:40,608 --> 00:06:42,610
+How do you know about that?
+
+89
+00:06:42,693 --> 00:06:44,946
+These locations typically have them.
+
+90
+00:06:45,029 --> 00:06:46,656
+They're like a code.
+
+91
+00:06:46,739 --> 00:06:52,745
+Well, it means not all dwarves
+have a strong sense of direction.
+
+92
+00:06:57,333 --> 00:06:58,543
+I've got it.
+
+93
+00:06:58,626 --> 00:07:00,753
+It seems we're in the southeast section...
+
+94
+00:07:00,837 --> 00:07:03,172
+Everyone, listen!
+
+95
+00:07:04,132 --> 00:07:05,049
+They're back.
+
+96
+00:07:05,633 --> 00:07:07,677
+We might have found Falin!
+
+97
+00:07:08,302 --> 00:07:10,513
+These are Falin's tracks?
+
+98
+00:07:10,596 --> 00:07:13,307
+She spotted us and ran away, though.
+
+99
+00:07:13,391 --> 00:07:14,892
+I'm sure it was her.
+
+100
+00:07:14,976 --> 00:07:17,228
+It was her silhouette, right?
+
+101
+00:07:18,813 --> 00:07:21,315
+I think it was a Griffin
+or something similar.
+
+102
+00:07:22,275 --> 00:07:24,944
+A-A Griffin?
+
+103
+00:07:25,027 --> 00:07:28,531
+It's a monster with the upper body
+of a bird and the lower body of a lion.
+
+104
+00:07:28,614 --> 00:07:31,617
+I've never heard of Griffins
+being in this dungeon.
+
+105
+00:07:33,035 --> 00:07:34,704
+Do you recognize the scent?
+
+106
+00:07:34,787 --> 00:07:36,664
+I'm not a dog, you know.
+
+107
+00:07:39,917 --> 00:07:41,461
+It smells like a beast.
+
+108
+00:07:41,544 --> 00:07:43,588
+Anyway, we have to track her down quickly.
+
+109
+00:07:43,671 --> 00:07:44,589
+No.
+
+110
+00:07:45,715 --> 00:07:46,591
+Huh?
+
+111
+00:07:46,674 --> 00:07:48,259
+No? Why?
+
+112
+00:07:48,342 --> 00:07:50,178
+Well, um...
+
+113
+00:07:50,261 --> 00:07:51,804
+It might be Falin.
+
+114
+00:07:51,888 --> 00:07:53,222
+Well...
+
+115
+00:07:53,306 --> 00:07:56,350
+T-Those are mushrooms
+I've never seen before.
+
+116
+00:07:56,434 --> 00:07:57,852
+I want to try cooking them.
+
+117
+00:07:57,935 --> 00:07:58,978
+Mushrooms?
+
+118
+00:07:59,061 --> 00:08:01,981
+I recall seeing them somewhere.
+
+119
+00:08:02,064 --> 00:08:04,609
+They're poisonous,
+so don't think of eating them.
+
+120
+00:08:04,692 --> 00:08:06,777
+I don't like Griffins.
+
+121
+00:08:06,861 --> 00:08:09,614
+How can you dislike
+a monster you've never met?
+
+122
+00:08:09,697 --> 00:08:11,240
+Whatever. Let's go!
+
+123
+00:08:11,324 --> 00:08:13,284
+-W-Wait! Don't!
+-Huh?
+
+124
+00:08:13,367 --> 00:08:14,785
+It's risky to move about!
+
+125
+00:08:14,869 --> 00:08:16,204
+Watch out!
+
+126
+00:08:21,125 --> 00:08:22,293
+{\an8}I knew it.
+
+127
+00:08:22,376 --> 00:08:23,753
+It's a Griffin!
+
+128
+00:08:28,508 --> 00:08:31,344
+So cool! I've never seen one before!
+
+129
+00:08:31,427 --> 00:08:32,803
+A Griffin...
+
+130
+00:08:33,888 --> 00:08:35,806
+All that fuss for nothing!
+
+131
+00:08:37,266 --> 00:08:38,100
+It's coming back!
+
+132
+00:08:38,184 --> 00:08:39,060
+Get back!
+
+133
+00:08:39,143 --> 00:08:42,063
+<i>Sperae Yeptum Rufermus.</i>
+
+134
+00:08:42,146 --> 00:08:48,402
+<i>Rufermus Sperae Alamandras Tronsum.
+Yovis Stantinus Histum...</i>
+
+135
+00:08:51,531 --> 00:08:52,365
+My aim!
+
+136
+00:08:52,448 --> 00:08:54,700
+Senshi! Don't run with your back to it!
+
+137
+00:09:02,917 --> 00:09:04,210
+-Senshi!
+-Senshi!
+
+138
+00:09:13,219 --> 00:09:14,095
+This is bad.
+
+139
+00:09:15,638 --> 00:09:18,015
+It happened so quickly,
+I couldn't do anything.
+
+140
+00:09:18,099 --> 00:09:20,268
+Did Senshi have any weapons with him?
+
+141
+00:09:20,351 --> 00:09:21,811
+No, he was unarmed.
+
+142
+00:09:21,894 --> 00:09:23,187
+We have to go after him now!
+
+143
+00:09:23,771 --> 00:09:26,482
+Will you climb up each pillar
+to look for him?
+
+144
+00:09:26,566 --> 00:09:28,067
+Well, I won't.
+
+145
+00:09:28,150 --> 00:09:29,819
+<i>Which way did it go?</i>
+
+146
+00:09:29,902 --> 00:09:32,363
+<i>If it's taken him to a high place,
+there's nothing we can do.</i>
+
+147
+00:09:32,446 --> 00:09:34,073
+<i>We won't even be able to find his body.</i>
+
+148
+00:09:34,657 --> 00:09:36,033
+<i>Just like that?</i>
+
+149
+00:09:36,117 --> 00:09:37,493
+<i>He was unarmed...</i>
+
+150
+00:09:37,577 --> 00:09:38,995
+<i>We might never see him again.</i>
+
+151
+00:09:39,078 --> 00:09:41,706
+Marcille, is there anything we can do?
+
+152
+00:09:45,918 --> 00:09:48,087
+We'll summon Familiars to search for him.
+
+153
+00:09:48,170 --> 00:09:49,547
+Familiars?
+
+154
+00:09:49,630 --> 00:09:51,048
+You're going to conjure monsters?
+
+155
+00:09:51,549 --> 00:09:54,760
+It's more accurate
+to say "create" than "conjure."
+
+156
+00:09:54,844 --> 00:09:56,596
+There are three types of summoning.
+
+157
+00:09:56,679 --> 00:10:00,808
+<i>First, you can dominate
+and control existing spirits or monsters.</i>
+
+158
+00:10:00,891 --> 00:10:02,935
+<i>But the conditions for this are complex,</i>
+
+159
+00:10:03,019 --> 00:10:05,855
+<i>and it might attract the attention
+of the lord of the dungeon.</i>
+
+160
+00:10:06,439 --> 00:10:09,525
+<i>Second, you can alter
+animals and plants into monsters.</i>
+
+161
+00:10:09,609 --> 00:10:10,860
+<i>But this isn't an option either,</i>
+
+162
+00:10:10,943 --> 00:10:13,362
+<i>as it takes an immense amount
+of time and preparation.</i>
+
+163
+00:10:13,446 --> 00:10:16,115
+Third, you can create them from scratch.
+
+164
+00:10:16,198 --> 00:10:17,533
+This time, we'll use this method.
+
+165
+00:10:17,617 --> 00:10:19,619
+It sounds the most complicated.
+
+166
+00:10:19,702 --> 00:10:22,663
+It is if you're creating
+an autonomous creature.
+
+167
+00:10:22,747 --> 00:10:25,625
+But for now,
+we only need one that's mobile.
+
+168
+00:10:27,251 --> 00:10:29,295
+I'll prepare the magic circle,
+
+169
+00:10:29,378 --> 00:10:31,714
+so gather all the meat we have
+and throw it into a pot.
+
+170
+00:10:31,797 --> 00:10:32,757
+Got it.
+
+171
+00:10:37,261 --> 00:10:38,429
+Is that all we have?
+
+172
+00:10:38,512 --> 00:10:40,431
+It'd be better if we had a bit more.
+
+173
+00:10:43,267 --> 00:10:44,477
+There's nothing else.
+
+174
+00:10:44,560 --> 00:10:46,270
+We do have cheese and eggs, though.
+
+175
+00:10:46,354 --> 00:10:47,355
+And vegetables!
+
+176
+00:10:49,065 --> 00:10:51,525
+I suppose they'll help boost
+the calorie count.
+
+177
+00:10:51,609 --> 00:10:52,526
+Fetch them.
+
+178
+00:10:52,610 --> 00:10:53,444
+Right.
+
+179
+00:10:57,865 --> 00:10:59,742
+What kind of monster are you making?
+
+180
+00:10:59,825 --> 00:11:01,494
+Can you control it at will?
+
+181
+00:11:01,577 --> 00:11:02,578
+Show me how to do it.
+
+182
+00:11:02,662 --> 00:11:03,496
+Absolutely not!
+
+183
+00:11:03,579 --> 00:11:07,083
+Get certified to handle dangerous magic
+through the proper channels first!
+
+184
+00:11:08,584 --> 00:11:10,419
+There's actually a process for that?
+
+185
+00:11:10,503 --> 00:11:14,173
+Hey, who's that old guy anyway?
+
+186
+00:11:14,256 --> 00:11:16,175
+How did he join your group?
+
+187
+00:11:16,676 --> 00:11:19,136
+And what's with his obsession with food?
+
+188
+00:11:21,263 --> 00:11:22,098
+Huh?
+
+189
+00:11:22,181 --> 00:11:25,684
+Are you saying you don't know,
+after acting so friendly with him?
+
+190
+00:11:25,768 --> 00:11:28,729
+Well, we just never had the opportunity.
+
+191
+00:11:28,813 --> 00:11:32,191
+None of us are keen
+on discussing our personal lives.
+
+192
+00:11:32,775 --> 00:11:33,943
+{\an8}But...
+
+193
+00:11:34,026 --> 00:11:36,529
+<i>I'd be lying if I said I wasn't curious.</i>
+
+194
+00:11:36,612 --> 00:11:39,448
+<i>There's a lot to question
+about Senshi's words and actions.</i>
+
+195
+00:11:39,532 --> 00:11:42,660
+Do you remember what he said
+when we first met him?
+
+196
+00:11:43,202 --> 00:11:47,331
+He claimed to have been studying monster
+food in this dungeon for over ten years.
+
+197
+00:11:47,415 --> 00:11:50,751
+<i>But this dungeon
+was only discovered six years ago.</i>
+
+198
+00:11:51,252 --> 00:11:52,211
+<i>But...</i>
+
+199
+00:11:52,294 --> 00:11:57,007
+<i>He carries a couple of pots and knives
+crafted from precious metals too.</i>
+
+200
+00:11:57,091 --> 00:11:59,677
+<i>And he managed
+to decipher ancient dwarf code.</i>
+
+201
+00:11:59,760 --> 00:12:02,805
+<i>He's afraid of a monster
+from a level we haven't explored yet.</i>
+
+202
+00:12:02,888 --> 00:12:04,974
+<i>And he persistently treats me
+as if I'm a kid.</i>
+
+203
+00:12:05,057 --> 00:12:07,476
+The last statement is a bit too nitpicky.
+
+204
+00:12:07,560 --> 00:12:08,436
+Nope.
+
+205
+00:12:08,519 --> 00:12:11,939
+Folks who aren't familiar with our race
+often make this mistake.
+
+206
+00:12:12,022 --> 00:12:14,650
+They don't get that half-foots
+are their own race.
+
+207
+00:12:14,733 --> 00:12:18,362
+They think we'll turn into tall-men
+or dwarves when we're grown.
+
+208
+00:12:18,446 --> 00:12:19,655
+But...
+
+209
+00:12:20,156 --> 00:12:22,950
+these misconceptions are only present
+in certain places, like the East.
+
+210
+00:12:23,033 --> 00:12:26,203
+{\an8}If he's been on this island for a decade,
+he should know better.
+
+211
+00:12:27,329 --> 00:12:30,458
+{\an8}Maybe he's not from the surface at all.
+
+212
+00:12:31,500 --> 00:12:33,919
+Once we manage to rescue Senshi,
+
+213
+00:12:34,003 --> 00:12:36,589
+we should reintroduce ourselves.
+
+214
+00:12:40,259 --> 00:12:42,928
+<i>Sperae Yeptum Rufermus.</i>
+
+215
+00:12:43,429 --> 00:12:46,557
+<i>Rufermus Sperae Vilal Indumreezbam.</i>
+
+216
+00:12:46,640 --> 00:12:49,268
+{\an8}<i>Martis Tilnunt Eesdum.</i>
+
+217
+00:12:49,351 --> 00:12:53,355
+{\an8}<i>Histum Eres Anjarkant Rementalent.</i>
+
+218
+00:13:00,905 --> 00:13:02,198
+Is it ready?
+
+219
+00:13:03,115 --> 00:13:04,200
+It should be.
+
+220
+00:13:05,117 --> 00:13:06,827
+Let's open the lid.
+
+221
+00:13:24,929 --> 00:13:26,388
+Thank goodness!
+
+222
+00:13:26,472 --> 00:13:28,724
+I was worried,
+but it looks like it worked!
+
+223
+00:13:28,807 --> 00:13:31,602
+What's with the expression?
+As long as they move, it's fine!
+
+224
+00:13:31,685 --> 00:13:35,064
+We can't waste limited resources
+on unnecessary details!
+
+225
+00:13:35,147 --> 00:13:36,357
+Okay, fly!
+
+226
+00:13:39,485 --> 00:13:40,528
+What's wrong?
+
+227
+00:13:40,611 --> 00:13:44,156
+Their vision is overlapping with mine,
+and it's making me sick.
+
+228
+00:13:44,240 --> 00:13:46,659
+Someone, cover my eyes.
+
+229
+00:13:48,744 --> 00:13:51,372
+The lunatic magician
+controls many of these.
+
+230
+00:13:51,455 --> 00:13:53,707
+How does he manage all the information?
+
+231
+00:13:53,791 --> 00:13:54,917
+I'm so curious.
+
+232
+00:13:55,000 --> 00:13:56,752
+Save that for later.
+
+233
+00:13:56,835 --> 00:13:58,045
+Right now, focus on Senshi.
+
+234
+00:13:58,128 --> 00:14:00,381
+I'll look for any foreign objects
+
+235
+00:14:00,464 --> 00:14:02,424
+by following
+the Dungeon Cleaners and spirits.
+
+236
+00:14:02,925 --> 00:14:04,301
+Follow me!
+
+237
+00:14:07,346 --> 00:14:09,598
+You can't follow, is that it?
+
+238
+00:14:09,682 --> 00:14:12,184
+I-It's not easy to walk while flying!
+
+239
+00:14:12,268 --> 00:14:13,936
+I'll carry her.
+
+240
+00:14:14,019 --> 00:14:16,021
+Izutsumi and Chil, take my stuff.
+
+241
+00:14:16,647 --> 00:14:18,065
+Here we go, Marcille.
+
+242
+00:14:18,983 --> 00:14:20,651
+What? I'm scared!
+
+243
+00:14:21,151 --> 00:14:22,486
+Put your arms around me.
+
+244
+00:14:22,570 --> 00:14:24,280
+No! I'm going to fall!
+
+245
+00:14:24,363 --> 00:14:25,447
+Stay still or you will fall!
+
+246
+00:14:28,784 --> 00:14:30,452
+What kind of position is that?
+
+247
+00:14:30,536 --> 00:14:32,746
+It seems like
+this is the most comfortable for her.
+
+248
+00:14:40,546 --> 00:14:43,132
+The Dungeon Cleaners
+are gathering around that pillar!
+
+249
+00:14:43,215 --> 00:14:44,466
+That's probably where...
+
+250
+00:14:47,011 --> 00:14:48,304
+Senshi!
+
+251
+00:14:48,387 --> 00:14:49,680
+I found him!
+
+252
+00:14:49,763 --> 00:14:51,765
+He's pinned high up on a pillar!
+
+253
+00:14:51,849 --> 00:14:53,934
+Griffins impale their prey, huh?
+
+254
+00:14:54,018 --> 00:14:55,769
+<i>We're here to rescue you, Senshi!</i>
+
+255
+00:14:55,853 --> 00:14:57,271
+<i>Can you tell who I am?</i>
+
+256
+00:14:57,354 --> 00:14:58,188
+A fly?
+
+257
+00:15:01,859 --> 00:15:02,902
+<i>He won't budge.</i>
+
+258
+00:15:02,985 --> 00:15:04,320
+<i>How can I get him down?</i>
+
+259
+00:15:04,403 --> 00:15:06,196
+Careful, Marcille.
+
+260
+00:15:06,280 --> 00:15:08,324
+Griffins have incredibly sharp eyes.
+
+261
+00:15:08,407 --> 00:15:12,661
+By the time we spot them,
+they've already spotted you.
+
+262
+00:15:15,873 --> 00:15:17,458
+I can't see anything anymore.
+
+263
+00:15:18,667 --> 00:15:20,794
+A Griffin's body is highly functional.
+
+264
+00:15:21,378 --> 00:15:22,630
+Their wings are powerful.
+
+265
+00:15:22,713 --> 00:15:25,507
+Their supple bodies are agile,
+with explosive power.
+
+266
+00:15:26,050 --> 00:15:28,052
+Their beaks and talons are sharp as well.
+
+267
+00:15:28,135 --> 00:15:29,803
+Outwitting one will be very challenging.
+
+268
+00:15:30,387 --> 00:15:33,349
+<i>Creatures are shaped
+the way they are out of necessity.</i>
+
+269
+00:15:33,891 --> 00:15:35,559
+<i>They don't have unnecessary details.</i>
+
+270
+00:15:37,269 --> 00:15:40,856
+{\an8}Laios, what form would be effective
+against a Griffin?
+
+271
+00:15:45,152 --> 00:15:47,404
+Do we really need that horn?
+
+272
+00:15:47,488 --> 00:15:50,240
+Streamlined bodies
+experience less air resistance,
+
+273
+00:15:50,324 --> 00:15:52,952
+which should enhance agility.
+
+274
+00:15:53,702 --> 00:15:57,081
+<i>Remember the Wyverns
+under the lunatic magician's control?</i>
+
+275
+00:15:57,164 --> 00:15:58,999
+<i>They were as swift as arrows.</i>
+
+276
+00:15:59,083 --> 00:16:00,834
+<i>Let's try to replicate their shape.</i>
+
+277
+00:16:03,921 --> 00:16:05,798
+This should do for now.
+
+278
+00:16:05,881 --> 00:16:06,840
+Try flying it.
+
+279
+00:16:10,761 --> 00:16:12,763
+It's flying completely differently!
+
+280
+00:16:12,846 --> 00:16:14,056
+We should have a chance now!
+
+281
+00:16:14,139 --> 00:16:16,183
+While Senshi climbs down,
+
+282
+00:16:16,266 --> 00:16:18,268
+I'll keep the Griffin distracted!
+
+283
+00:16:18,352 --> 00:16:20,562
+Everyone else, be prepared to fight
+and provide backup!
+
+284
+00:16:21,605 --> 00:16:23,065
+Why's she doing that?
+
+285
+00:16:23,148 --> 00:16:25,317
+Maybe she needs to feel a sense of unity.
+
+286
+00:16:25,901 --> 00:16:27,319
+<i>Come on, Senshi.</i>
+
+287
+00:16:27,403 --> 00:16:29,279
+<i>Use this rope!</i>
+
+288
+00:16:29,905 --> 00:16:31,573
+<i>Good, and now...</i>
+
+289
+00:16:32,783 --> 00:16:33,701
+<i>It's fast!</i>
+
+290
+00:16:35,160 --> 00:16:36,704
+<i>I'll draw the Griffin away!</i>
+
+291
+00:16:36,787 --> 00:16:38,288
+<i>Come on, follow me!</i>
+
+292
+00:16:43,085 --> 00:16:44,712
+<i>Now, back to the ground!</i>
+
+293
+00:16:51,301 --> 00:16:52,469
+It got me.
+
+294
+00:16:53,470 --> 00:16:54,513
+It's not good enough...
+
+295
+00:16:54,596 --> 00:16:56,598
+I'm no match for it at all.
+
+296
+00:16:56,682 --> 00:16:57,516
+What should I do?
+
+297
+00:16:57,599 --> 00:16:59,560
+I've got it! Leave it to me!
+
+298
+00:16:59,643 --> 00:17:01,770
+I'll make it stronger and tougher!
+
+299
+00:17:01,854 --> 00:17:05,357
+I'll add horns, give it fangs
+and sharp claws!
+
+300
+00:17:05,441 --> 00:17:08,235
+I'll cover it with scales
+and even add another head!
+
+301
+00:17:08,318 --> 00:17:10,571
+With more potential,
+it's sure to be strong!
+
+302
+00:17:10,654 --> 00:17:12,156
+And it'll breathe fire and ice too!
+
+303
+00:17:12,239 --> 00:17:13,240
+So cool!
+
+304
+00:17:13,323 --> 00:17:15,534
+<i>How do I take down a Griffin?</i>
+
+305
+00:17:15,617 --> 00:17:18,662
+<i>Do I need to focus on offense or defense?</i>
+
+306
+00:17:19,204 --> 00:17:20,039
+<i>No!</i>
+
+307
+00:17:24,460 --> 00:17:26,920
+-My Giga Double-headed Flame Ice Dragon!
+-<i>We don't need claws or fangs.</i>
+
+308
+00:17:27,004 --> 00:17:30,049
+<i>It should be faster, more lithe,
+and more beautiful.</i>
+
+309
+00:17:30,132 --> 00:17:34,928
+<i>What's needed here is determination
+and ego to make a creature</i>
+
+310
+00:17:35,012 --> 00:17:36,930
+<i>with the single goal of rescuing Senshi!</i>
+
+311
+00:17:37,014 --> 00:17:40,434
+<i>At that moment, Marcille's intense passion</i>
+
+312
+00:17:40,517 --> 00:17:41,810
+<i>and her prayers</i>
+
+313
+00:17:42,394 --> 00:17:44,772
+<i>brought about a miracle.</i>
+
+314
+00:17:45,355 --> 00:17:47,316
+I'll give you a name.
+
+315
+00:17:47,399 --> 00:17:49,943
+With silver-white wings
+that streak across the skies...
+
+316
+00:17:51,862 --> 00:17:54,323
+I summon the Sky Fish!
+
+317
+00:17:54,406 --> 00:17:56,033
+It's so...
+
+318
+00:17:56,116 --> 00:17:57,076
+lame.
+
+319
+00:17:57,159 --> 00:17:58,368
+No, this is fine!
+
+320
+00:17:58,994 --> 00:18:00,662
+Now, go!
+
+321
+00:18:07,795 --> 00:18:09,838
+-It's so fast!
+-The way it moves is gross!
+
+322
+00:18:09,922 --> 00:18:11,465
+I'm going all out!
+
+323
+00:18:11,548 --> 00:18:12,966
+Everyone, get ready!
+
+324
+00:18:13,050 --> 00:18:15,385
+Seriously, what's her deal?
+
+325
+00:18:15,469 --> 00:18:17,554
+She's putting in her best effort,
+that's what.
+
+326
+00:18:26,563 --> 00:18:28,148
+<i>I can't change course!</i>
+
+327
+00:18:31,485 --> 00:18:32,945
+<i>This time!</i>
+
+328
+00:18:34,446 --> 00:18:35,906
+<i>I'll turn around and...</i>
+
+329
+00:18:37,366 --> 00:18:38,617
+<i>Punch through!</i>
+
+330
+00:19:03,058 --> 00:19:04,184
+Are you okay?
+
+331
+00:19:04,268 --> 00:19:05,686
+Y-Yeah.
+
+332
+00:19:05,769 --> 00:19:07,729
+You should take a break for a bit.
+
+333
+00:19:07,813 --> 00:19:11,024
+We'll start cooking,
+so just rest over there.
+
+334
+00:19:19,908 --> 00:19:20,909
+Thank you.
+
+335
+00:19:22,244 --> 00:19:23,370
+You did well.
+
+336
+00:19:24,454 --> 00:19:25,622
+<i>Sky Fish...</i>
+
+337
+00:19:29,585 --> 00:19:31,378
+This is amazing.
+
+338
+00:19:31,461 --> 00:19:33,881
+The vegetables
+are packed inside like organs.
+
+339
+00:19:36,508 --> 00:19:38,385
+Did you still need it?
+
+340
+00:19:38,468 --> 00:19:40,179
+No, but...
+
+341
+00:19:40,971 --> 00:19:44,099
+I was expecting you
+to mourn a bit, you know?
+
+342
+00:19:44,183 --> 00:19:45,767
+I wanted some time for that.
+
+343
+00:19:45,851 --> 00:19:47,227
+-Are you okay, Senshi?
+-Marcille.
+
+344
+00:19:47,311 --> 00:19:49,730
+They've already fulfilled their lives.
+
+345
+00:19:49,813 --> 00:19:52,274
+Consuming their bodies
+is a way to honor them.
+
+346
+00:19:52,983 --> 00:19:54,484
+But still...
+
+347
+00:19:56,570 --> 00:19:58,989
+Fine. Do as you want.
+
+348
+00:19:59,781 --> 00:20:02,743
+<i>Cut the Familiar into appropriate lengths.</i>
+
+349
+00:20:03,327 --> 00:20:05,495
+<i>Remove the wings at the base.</i>
+
+350
+00:20:05,579 --> 00:20:08,290
+<i>Dab away excess moisture with a cloth,</i>
+
+351
+00:20:09,333 --> 00:20:10,751
+<i>and season with salt and pepper.</i>
+
+352
+00:20:10,834 --> 00:20:12,628
+<i>Fold the wings up small.</i>
+
+353
+00:20:13,503 --> 00:20:18,175
+<i>Blend flour, egg, and water thoroughly,
+then coat the slices in the mixture.</i>
+
+354
+00:20:18,258 --> 00:20:19,384
+<i>And deep fry them.</i>
+
+355
+00:20:20,510 --> 00:20:23,222
+<i>The wings will brown quickly
+so a quick dip will do.</i>
+
+356
+00:20:23,889 --> 00:20:25,349
+<i>Serve with sauce and...</i>
+
+357
+00:20:26,141 --> 00:20:27,142
+It's done!
+
+358
+00:20:27,226 --> 00:20:30,062
+SKY FISH AND CHIPS
+
+359
+00:20:35,901 --> 00:20:39,321
+The meat and vegetables
+have melded together and it's delicious!
+
+360
+00:20:39,404 --> 00:20:40,697
+Yeah, literally.
+
+361
+00:20:40,781 --> 00:20:44,409
+Summoning might actually be
+a superior cooking technique!
+
+362
+00:20:44,493 --> 00:20:48,538
+If it consumes a week's worth of food
+for just one meal, it's hardly superior.
+
+363
+00:20:49,039 --> 00:20:52,209
+Damn. I should've
+taken their liquor along.
+
+364
+00:20:52,292 --> 00:20:55,212
+Izutsumi, eat the other parts too,
+not just the wings.
+
+365
+00:20:55,295 --> 00:20:56,129
+I don't want to.
+
+366
+00:20:57,047 --> 00:20:58,590
+Senshi, have a bite too.
+
+367
+00:21:01,718 --> 00:21:03,428
+Is the Griffin bothering you?
+
+368
+00:21:03,512 --> 00:21:04,596
+Want to drain the blood?
+
+369
+00:21:04,680 --> 00:21:07,015
+N-No, never mind.
+
+370
+00:21:07,683 --> 00:21:10,018
+I'm not hungry right now.
+
+371
+00:21:13,146 --> 00:21:14,606
+Hey, Senshi.
+
+372
+00:21:16,692 --> 00:21:18,777
+My name's Chilchuck.
+
+373
+00:21:19,403 --> 00:21:22,948
+I'm from a small village
+nestled in a basin, northeast of here.
+
+374
+00:21:24,366 --> 00:21:25,701
+For about a decade,
+
+375
+00:21:25,784 --> 00:21:28,328
+I've been doing business
+around different dungeons.
+
+376
+00:21:28,829 --> 00:21:32,082
+From picking locks to interpreting,
+mediating, and appraising.
+
+377
+00:21:32,958 --> 00:21:35,544
+{\an8}Also, I have a wife and daughters,
+
+378
+00:21:35,627 --> 00:21:37,963
+{\an8}but I haven't seen them in years
+for various reasons.
+
+379
+00:21:38,046 --> 00:21:38,880
+What?
+
+380
+00:21:39,464 --> 00:21:42,342
+-That's pretty much my backstory.
+-A wife and daughters?
+
+381
+00:21:42,968 --> 00:21:45,387
+Now, tell us about yourself.
+
+382
+00:21:45,971 --> 00:21:48,098
+Why are you living down here?
+
+383
+00:21:48,640 --> 00:21:49,933
+What happened?
+
+384
+00:21:55,856 --> 00:21:58,692
+My name is Senshi of Izganda.
+
+385
+00:21:59,818 --> 00:22:02,612
+I used to belong to a small mining crew.
+
+386
+00:22:03,613 --> 00:22:08,327
+<i>We were miners, but not for ore.</i>
+
+387
+00:22:08,410 --> 00:22:10,912
+<i>We sought relics from before the war,</i>
+
+388
+00:22:10,996 --> 00:22:13,498
+<i>dreaming of hitting the jackpot.</i>
+
+389
+00:22:14,082 --> 00:22:17,502
+<i>That said, the majority
+of our discoveries were ore,</i>
+
+390
+00:22:17,586 --> 00:22:22,883
+<i>and finding relics like gears or lenses
+was a rare stroke of luck.</i>
+
+391
+00:22:24,051 --> 00:22:25,344
+{\an8}<i>Then, one day,</i>
+
+392
+00:22:25,427 --> 00:22:29,181
+{\an8}<i>we unearthed something huge.</i>
+
+393
+00:22:32,184 --> 00:22:35,353
+<i>An ancient castle gleaming with gold.</i>
+
+394
+00:22:36,688 --> 00:22:39,775
+That's right. It was this very dungeon.
+
+395
+00:24:10,115 --> 00:24:11,950
+{\an8}Subtitle translation by: Ai Matsuoka
+

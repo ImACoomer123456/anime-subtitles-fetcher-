@@ -1,0 +1,1938 @@
+﻿1
+00:00:32,949 --> 00:00:34,826
+DELICIOUS IN DUNGEON
+
+2
+00:01:41,851 --> 00:01:43,812
+Drop your weapons now.
+
+3
+00:01:47,148 --> 00:01:49,400
+Back up and lie on your stomach.
+
+4
+00:01:49,484 --> 00:01:52,070
+If you twitch a muscle, I'll kill her.
+
+5
+00:01:52,654 --> 00:01:56,032
+{\an8}Isn't she one of Shuro's retainers?
+
+6
+00:01:56,533 --> 00:01:58,827
+{\an8}Was she following us this whole time?
+
+7
+00:01:59,661 --> 00:02:00,578
+You.
+
+8
+00:02:00,662 --> 00:02:02,163
+Undo these spells.
+
+9
+00:02:02,247 --> 00:02:03,081
+Huh?
+
+10
+00:02:03,164 --> 00:02:05,166
+The spells I'm under!
+
+11
+00:02:05,250 --> 00:02:06,334
+Get to it!
+
+12
+00:02:06,417 --> 00:02:09,212
+W-What kind of spells are you under?
+
+13
+00:02:09,295 --> 00:02:10,839
+Can't you tell by looking?
+
+14
+00:02:10,922 --> 00:02:13,133
+You wield black magic, don't you?
+
+15
+00:02:13,216 --> 00:02:15,093
+At least clue me in
+on what they're cast on
+
+16
+00:02:15,176 --> 00:02:17,345
+and what kind of magic they are.
+
+17
+00:02:19,430 --> 00:02:22,100
+There are two types of spells on me.
+
+18
+00:02:22,183 --> 00:02:24,227
+One's on my neck.
+
+19
+00:02:24,310 --> 00:02:25,687
+And the other...
+
+20
+00:02:25,770 --> 00:02:26,604
+Huh?
+
+21
+00:02:30,066 --> 00:02:31,401
+Is all over my body.
+
+22
+00:02:32,944 --> 00:02:35,572
+{\an8}Is she a beast-man?
+
+23
+00:02:35,655 --> 00:02:36,614
+{\an8}Yeah.
+
+24
+00:02:36,698 --> 00:02:38,741
+{\an8}I've seen one a long time ago.
+
+25
+00:02:38,825 --> 00:02:41,744
+An engineered beast-man.
+
+26
+00:02:41,828 --> 00:02:45,582
+Apparently, they're made with black magic,
+mixing human and beast souls together.
+
+27
+00:02:47,584 --> 00:02:50,336
+Fine. I'll do what I can.
+
+28
+00:02:52,172 --> 00:02:53,256
+This...
+
+29
+00:02:53,840 --> 00:02:55,967
+{\an8}looks like it's written
+in the Eastern script.
+
+30
+00:02:56,467 --> 00:02:57,594
+{\an8}What kind of spells are they?
+
+31
+00:02:58,094 --> 00:02:59,971
+{\an8}Can't you tell by looking?
+
+32
+00:03:00,054 --> 00:03:03,683
+{\an8}They activate when the spellcaster
+goes without touching them for a while.
+
+33
+00:03:03,766 --> 00:03:06,519
+{\an8}Is the spellcaster the one called Maizuru?
+
+34
+00:03:06,603 --> 00:03:08,354
+{\an8}How much time do you have left?
+
+35
+00:03:08,438 --> 00:03:10,481
+{\an8}What happens when you run out of time?
+
+36
+00:03:10,565 --> 00:03:11,441
+{\an8}Who knows?
+
+37
+00:03:11,524 --> 00:03:13,151
+{\an8}You might want to hurry.
+
+38
+00:03:13,234 --> 00:03:15,778
+You don't want to die with me, do you?
+
+39
+00:03:16,613 --> 00:03:18,823
+I'll let you go once you undo the spells.
+
+40
+00:03:20,408 --> 00:03:22,493
+<i>The writing is peculiar.</i>
+
+41
+00:03:22,577 --> 00:03:24,370
+<i>But I have a feeling I can undo them.</i>
+
+42
+00:03:24,454 --> 00:03:25,496
+{\an8}Hey, you brat.
+
+43
+00:03:25,580 --> 00:03:26,414
+Huh?
+
+44
+00:03:26,497 --> 00:03:27,874
+Fetch me something to eat.
+
+45
+00:03:34,923 --> 00:03:36,841
+FIELD RATION PELLET
+
+46
+00:03:38,468 --> 00:03:41,512
+When's the last time
+you had something to eat?
+
+47
+00:03:42,055 --> 00:03:45,016
+If you shovel it in that fast,
+you'll choke.
+
+48
+00:03:45,099 --> 00:03:46,226
+Shut up.
+
+49
+00:03:46,309 --> 00:03:48,102
+I'll prepare something hot for you.
+
+50
+00:03:48,186 --> 00:03:49,604
+Hey! Did I say you could move?
+
+51
+00:03:49,687 --> 00:03:50,521
+Whoa!
+
+52
+00:03:50,605 --> 00:03:52,232
+Don't underestimate...
+
+53
+00:03:54,609 --> 00:03:57,570
+{\an8}You need something to moisten your throat.
+
+54
+00:03:57,654 --> 00:03:59,530
+{\an8}I'll fix you something. That's all.
+
+55
+00:03:59,614 --> 00:04:02,575
+{\an8}If you try
+to feed me monsters, I'll kill you.
+
+56
+00:04:03,451 --> 00:04:04,410
+Deal.
+
+57
+00:04:07,247 --> 00:04:11,251
+I'm pretty sure I picked up some mushrooms
+around where the Dryads were.
+
+58
+00:04:12,543 --> 00:04:15,129
+<i>They're starting to sprout
+leg-like things.</i>
+
+59
+00:04:15,880 --> 00:04:18,299
+<i>Must be my imagination.</i>
+
+60
+00:04:18,883 --> 00:04:21,344
+<i>I'll set my pot on the magic circle,</i>
+
+61
+00:04:21,427 --> 00:04:25,181
+<i>melt some butter,
+sauté some garlic,</i>
+
+62
+00:04:25,265 --> 00:04:26,391
+<i>and toss in the rice.</i>
+
+63
+00:04:26,891 --> 00:04:29,394
+<i>Then I'll add
+the mushrooms and seasonings,</i>
+
+64
+00:04:29,477 --> 00:04:31,980
+<i>pour in some water,
+and let it stew for a bit.</i>
+
+65
+00:04:38,486 --> 00:04:43,908
+<i>The fact that this is all I can make
+makes me feel useless and pathetic.</i>
+
+66
+00:04:43,992 --> 00:04:48,413
+<i>At any rate, I can't stand the idea
+of young ones going hungry.</i>
+
+67
+00:04:48,496 --> 00:04:49,414
+<i>But at least,</i>
+
+68
+00:04:50,081 --> 00:04:51,666
+I can throw in some cheese.
+
+69
+00:04:52,250 --> 00:04:53,501
+It's done.
+
+70
+00:04:53,584 --> 00:04:56,170
+RISOTTO WITH MUSHROOMS FROM A GRAVEYARD
+AND CHEESE FROM ORCS
+
+71
+00:04:56,754 --> 00:04:58,131
+I'll put it here.
+
+72
+00:04:58,214 --> 00:04:59,841
+You think I'd eat that?
+
+73
+00:05:12,353 --> 00:05:13,438
+<i>This kid...</i>
+
+74
+00:05:14,022 --> 00:05:16,190
+<i>Her table manners</i>
+
+75
+00:05:16,274 --> 00:05:17,483
+<i>are terrible!</i>
+
+76
+00:05:18,526 --> 00:05:19,694
+Give me more!
+
+77
+00:05:20,278 --> 00:05:23,489
+{\an8}Is etiquette different
+in the East or something?
+
+78
+00:05:23,573 --> 00:05:26,784
+{\an8}We never saw Shuro eating like that.
+
+79
+00:05:27,785 --> 00:05:29,704
+She simply had a poor upbringing.
+
+80
+00:05:30,288 --> 00:05:31,748
+Guess that's unfamiliar to you.
+
+81
+00:05:38,838 --> 00:05:39,756
+-Huh?
+-Huh?
+
+82
+00:05:46,179 --> 00:05:47,597
+Why did you do that?
+
+83
+00:05:47,680 --> 00:05:48,890
+I hate mushrooms.
+
+84
+00:05:48,973 --> 00:05:50,016
+<i>She's picky!</i>
+
+85
+00:05:50,099 --> 00:05:52,143
+<i>This has never happened before.</i>
+
+86
+00:05:52,226 --> 00:05:53,144
+<i>Senshi...</i>
+
+87
+00:05:55,688 --> 00:05:56,773
+Your spoon.
+
+88
+00:05:57,482 --> 00:06:00,026
+Hold your spoon properly.
+
+89
+00:06:00,109 --> 00:06:00,985
+Hey!
+
+90
+00:06:01,069 --> 00:06:02,987
+If you come any closer, I'll kill you!
+
+91
+00:06:03,071 --> 00:06:07,742
+Hold your spoon the right way
+and pick up what you threw on the floor.
+
+92
+00:06:07,825 --> 00:06:09,494
+-What'd you say?
+-Hey!
+
+93
+00:06:09,577 --> 00:06:10,620
+Don't!
+
+94
+00:06:11,329 --> 00:06:13,247
+It's risky to move
+when I'm undoing your spell!
+
+95
+00:06:26,803 --> 00:06:29,097
+Hold your spoon like this.
+
+96
+00:06:29,180 --> 00:06:30,807
+W-Who cares how I hold it?
+
+97
+00:06:30,890 --> 00:06:33,226
+This way is easier for me!
+
+98
+00:06:33,309 --> 00:06:35,019
+I'm not surprised.
+
+99
+00:06:35,103 --> 00:06:38,481
+Having someone force you to hold a spoon
+in an unfamiliar way must be annoying.
+
+100
+00:06:38,564 --> 00:06:39,398
+However...
+
+101
+00:06:39,482 --> 00:06:40,733
+Senshi, behind you!
+
+102
+00:06:43,903 --> 00:06:45,029
+Huh?
+
+103
+00:06:46,072 --> 00:06:47,115
+<i>I didn't feel anything.</i>
+
+104
+00:06:48,574 --> 00:06:49,617
+<i>Is this paper?</i>
+
+105
+00:06:49,700 --> 00:06:51,744
+Senshi, watch out!
+
+106
+00:06:55,206 --> 00:06:59,669
+That's a carving knife,
+a type of knife used for cutting meat.
+
+107
+00:07:00,211 --> 00:07:04,132
+It's got a long, sharp blade
+that can look pretty intimidating,
+
+108
+00:07:04,215 --> 00:07:06,134
+but it's thin and delicate.
+
+109
+00:07:06,217 --> 00:07:10,513
+If you wave it around like that,
+what do you think is going to happen?
+
+110
+00:07:10,596 --> 00:07:11,472
+Senshi!
+
+111
+00:07:21,858 --> 00:07:25,069
+Just like that, you might not get
+the most out of your tool,
+
+112
+00:07:25,153 --> 00:07:27,780
+leaving yourself at a disadvantage.
+
+113
+00:07:34,745 --> 00:07:35,580
+Senshi!
+
+114
+00:07:35,663 --> 00:07:37,081
+Now, Laios!
+
+115
+00:07:45,506 --> 00:07:48,176
+Are you hurt, cat girl?
+
+116
+00:07:49,218 --> 00:07:51,679
+I'm sorry for giving you a fright.
+
+117
+00:07:51,762 --> 00:07:52,597
+However,
+
+118
+00:07:52,680 --> 00:07:57,101
+there are right
+and wrong ways to hold a tool.
+
+119
+00:07:57,185 --> 00:07:59,562
+I want you to think about
+why that's the case.
+
+120
+00:07:59,645 --> 00:08:02,648
+{\an8}And why you shouldn't move
+while a spell's being undone.
+
+121
+00:08:03,232 --> 00:08:06,319
+{\an8}If the spells had been nastier,
+who knows what might've happened.
+
+122
+00:08:07,945 --> 00:08:10,448
+The food's gone cold.
+
+123
+00:08:10,531 --> 00:08:12,116
+I'll reheat it quick.
+
+124
+00:08:14,535 --> 00:08:15,369
+So?
+
+125
+00:08:15,453 --> 00:08:17,705
+Why were you coming after us?
+
+126
+00:08:18,956 --> 00:08:23,669
+All this time, I've been looking for a way
+to break the curses on my body.
+
+127
+00:08:25,713 --> 00:08:28,758
+Turns out, these curses
+were placed by black magic.
+
+128
+00:08:28,841 --> 00:08:32,011
+But I could never find anyone
+who could wield black magic.
+
+129
+00:08:32,887 --> 00:08:35,473
+Until I crossed paths with that long-ears.
+
+130
+00:08:35,556 --> 00:08:38,226
+Black, I mean ancient magic
+comes in all sorts.
+
+131
+00:08:38,309 --> 00:08:40,853
+My research is mainly about
+drawing energy from another dimension...
+
+132
+00:08:40,937 --> 00:08:41,771
+Don't give me that!
+
+133
+00:08:41,854 --> 00:08:44,023
+I know you can do it!
+
+134
+00:08:44,106 --> 00:08:46,651
+I mean, you've done it before!
+
+135
+00:08:46,734 --> 00:08:50,196
+<i>You wielded black magic
+to create that eerie half-beast creature!</i>
+
+136
+00:08:51,656 --> 00:08:54,992
+And you're all
+trekking through this dungeon
+
+137
+00:08:55,076 --> 00:08:56,702
+to break the curse on that woman, right?
+
+138
+00:08:56,786 --> 00:08:59,914
+That means you know how to break curses!
+
+139
+00:08:59,997 --> 00:09:02,416
+In that case, you can free me too!
+
+140
+00:09:03,000 --> 00:09:06,587
+Get rid of this beast's soul
+that's possessing me!
+
+141
+00:09:09,090 --> 00:09:10,132
+I'm sorry.
+
+142
+00:09:10,716 --> 00:09:13,261
+There's nothing I can do about that.
+
+143
+00:09:14,095 --> 00:09:15,179
+What?
+
+144
+00:09:15,763 --> 00:09:18,140
+<i>There's a lot we don't know
+about the soul.</i>
+
+145
+00:09:18,724 --> 00:09:20,434
+<i>But it's often likened to an egg.</i>
+
+146
+00:09:21,185 --> 00:09:24,146
+<i>Normally, it's nestled inside
+a shell we call flesh,</i>
+
+147
+00:09:24,230 --> 00:09:26,816
+<i>but once the flesh is broken,
+the insides spill out</i>
+
+148
+00:09:26,899 --> 00:09:28,401
+<i>and can't be put back again.</i>
+
+149
+00:09:29,777 --> 00:09:31,571
+<i>This dungeon is under a spell</i>
+
+150
+00:09:31,654 --> 00:09:34,407
+<i>that forms a tough membrane
+beneath the shell,</i>
+
+151
+00:09:34,949 --> 00:09:37,034
+<i>keeping the soul inside
+even when the body is damaged.</i>
+
+152
+00:09:38,077 --> 00:09:43,291
+At the moment, you and Falin
+have got two eggs inside one shell.
+
+153
+00:09:44,542 --> 00:09:46,627
+And once mixed together,
+
+154
+00:09:46,711 --> 00:09:48,879
+those souls can never go back
+to their original form.
+
+155
+00:09:50,047 --> 00:09:53,676
+<i>I knew that, but hearing it
+laid out like that hits differently.</i>
+
+156
+00:09:54,302 --> 00:09:55,761
+{\an8}What?
+
+157
+00:09:55,845 --> 00:10:00,224
+{\an8}If that's the case,
+why press on with your journey?
+
+158
+00:10:02,935 --> 00:10:06,439
+One reason is
+we can't just let my sister run wild.
+
+159
+00:10:06,522 --> 00:10:09,191
+She might kill the next adventurer
+she crosses paths with.
+
+160
+00:10:09,859 --> 00:10:11,110
+Or get herself killed by them.
+
+161
+00:10:11,944 --> 00:10:13,779
+We want to do something
+before that happens.
+
+162
+00:10:14,405 --> 00:10:17,116
+And if we return to the surface now,
+
+163
+00:10:17,199 --> 00:10:19,368
+we'll be apprehended
+for dabbling in black magic.
+
+164
+00:10:19,452 --> 00:10:22,580
+Shuro will likely tell the Lord
+of the Island about this incident.
+
+165
+00:10:23,456 --> 00:10:24,749
+But...
+
+166
+00:10:25,333 --> 00:10:28,127
+Does this mean I'm stuck like this?
+
+167
+00:10:28,210 --> 00:10:30,087
+No, listen to me!
+
+168
+00:10:30,171 --> 00:10:34,008
+I know this might sound weird,
+but I'm honestly glad to have met you.
+
+169
+00:10:34,091 --> 00:10:36,344
+{\an8}I'm not sure what kind of monster
+you're mixed with,
+
+170
+00:10:36,427 --> 00:10:38,846
+{\an8}but your behavior is just like a human's.
+
+171
+00:10:38,929 --> 00:10:40,765
+{\an8}And you're not out for blood either.
+
+172
+00:10:41,349 --> 00:10:44,935
+So, maybe even Falin,
+once she's free from the dungeon's grip,
+
+173
+00:10:45,019 --> 00:10:47,521
+might be able to reclaim her true self.
+
+174
+00:10:48,147 --> 00:10:51,275
+Just realizing that makes me
+
+175
+00:10:51,359 --> 00:10:53,569
+so very happy right now.
+
+176
+00:10:54,236 --> 00:10:55,279
+Here.
+
+177
+00:10:55,863 --> 00:10:59,116
+Maybe things didn't unfold
+exactly as you'd hoped,
+
+178
+00:10:59,200 --> 00:11:01,077
+but why not look at it
+from a positive angle,
+
+179
+00:11:01,160 --> 00:11:02,828
+like it was fate at work?
+
+180
+00:11:03,371 --> 00:11:05,039
+The lord of the dungeon
+
+181
+00:11:05,122 --> 00:11:08,125
+is way more skilled
+with ancient magic than I am.
+
+182
+00:11:08,626 --> 00:11:13,798
+He might have some insights
+on how to separate souls.
+
+183
+00:11:13,881 --> 00:11:14,757
+Hold up.
+
+184
+00:11:14,840 --> 00:11:17,051
+Are you trying to recruit me?
+
+185
+00:11:17,134 --> 00:11:20,513
+Either way, you can't make it back
+to the surface by yourself.
+
+186
+00:11:20,596 --> 00:11:23,182
+Was your name Asebi or something?
+
+187
+00:11:23,265 --> 00:11:25,226
+That's just the name I go by.
+
+188
+00:11:25,309 --> 00:11:26,227
+Then...
+
+189
+00:11:26,310 --> 00:11:27,311
+It's Izutsumi.
+
+190
+00:11:27,395 --> 00:11:29,271
+My name is Izutsumi.
+
+191
+00:11:29,355 --> 00:11:30,439
+Don't forget.
+
+192
+00:11:41,158 --> 00:11:44,453
+Laios, how much longer are you going
+to keep living like this?
+
+193
+00:11:45,037 --> 00:11:45,871
+Father.
+
+194
+00:11:45,955 --> 00:11:48,082
+It's about time
+you started living a proper life.
+
+195
+00:11:48,165 --> 00:11:51,961
+I didn't let you go out there
+just so you could go off slaying dragons.
+
+196
+00:11:52,044 --> 00:11:53,587
+Come back to the village!
+
+197
+00:11:54,171 --> 00:11:55,423
+But Falin's still...
+
+198
+00:11:55,506 --> 00:11:57,299
+Forget about her.
+
+199
+00:11:57,800 --> 00:12:01,303
+Do you really believe someone like you
+can make it out there
+
+200
+00:12:01,804 --> 00:12:04,807
+{\an8}when you ran away from both school
+and the army because you couldn't fit in?
+
+201
+00:12:05,808 --> 00:12:08,310
+You don't even have the knack
+for exploring the dungeon.
+
+202
+00:12:08,811 --> 00:12:10,646
+Just like back when you were gold-peeling,
+
+203
+00:12:10,729 --> 00:12:13,732
+your comrades will deceive you
+and take credit for your achievements.
+
+204
+00:12:14,316 --> 00:12:16,735
+Because you're clueless
+when it comes to reading people.
+
+205
+00:12:17,319 --> 00:12:18,988
+It was the same with me.
+
+206
+00:12:19,071 --> 00:12:22,158
+You believed we were close friends,
+
+207
+00:12:22,241 --> 00:12:23,951
+but I've always loathed...
+
+208
+00:12:24,034 --> 00:12:24,994
+Would you let that go?
+
+209
+00:12:25,077 --> 00:12:26,662
+We've already talked it out.
+
+210
+00:12:26,745 --> 00:12:28,372
+Wait, hang on.
+
+211
+00:12:28,456 --> 00:12:30,875
+<i>Why are my parents here?</i>
+
+212
+00:12:30,958 --> 00:12:33,127
+<i>I haven't seen them in over a decade.</i>
+
+213
+00:12:33,210 --> 00:12:35,004
+<i>And where am I?</i>
+
+214
+00:12:35,087 --> 00:12:36,630
+<i>What was I up to?</i>
+
+215
+00:12:36,714 --> 00:12:38,215
+<i>I think I was...</i>
+
+216
+00:12:41,719 --> 00:12:43,888
+<i>Lately, Marcille</i>
+
+217
+00:12:44,472 --> 00:12:46,682
+<i>seemed kind of worn out.</i>
+
+218
+00:12:47,475 --> 00:12:50,519
+Marcille, we'll take care
+of keeping watch tonight.
+
+219
+00:12:50,603 --> 00:12:51,729
+You rest.
+
+220
+00:12:51,812 --> 00:12:53,147
+Huh? But why?
+
+221
+00:12:53,230 --> 00:12:54,398
+Don't worry about me.
+
+222
+00:12:54,482 --> 00:12:56,567
+Come on. Just rest.
+
+223
+00:12:56,650 --> 00:12:57,485
+Hey!
+
+224
+00:12:57,568 --> 00:12:59,403
+Ugh, what are you doing?!
+
+225
+00:12:59,987 --> 00:13:02,239
+I'm not that tired, you know.
+
+226
+00:13:02,323 --> 00:13:04,033
+I'll be up in a bit.
+
+227
+00:13:04,116 --> 00:13:05,743
+I can't be the only one to...
+
+228
+00:13:06,368 --> 00:13:10,748
+<i>But before long, her quiet breathing
+turned into distressed groans.</i>
+
+229
+00:13:11,499 --> 00:13:13,834
+What's the matter, Marcille?
+
+230
+00:13:13,918 --> 00:13:15,461
+This isn't something to take lightly.
+
+231
+00:13:15,544 --> 00:13:16,545
+Is it a monster?
+
+232
+00:13:16,629 --> 00:13:18,797
+Yeah, I think it's a Nightmare.
+
+233
+00:13:18,881 --> 00:13:21,967
+<i>They prey on humans in their sleep,
+inflicting them with nightmares,</i>
+
+234
+00:13:22,051 --> 00:13:23,552
+<i>and feed on their emotions.</i>
+
+235
+00:13:24,136 --> 00:13:27,139
+If this goes on,
+Marcille will weaken and die.
+
+236
+00:13:27,640 --> 00:13:29,350
+Wake up, Marcille!
+
+237
+00:13:29,433 --> 00:13:32,102
+Don't. If you force her awake,
+you'll harm her soul.
+
+238
+00:13:33,354 --> 00:13:37,566
+When Shuro was possessed before,
+Falin entered his dreams to rescue him.
+
+239
+00:13:38,275 --> 00:13:40,069
+Let's try that.
+
+240
+00:13:40,152 --> 00:13:42,363
+You're going to enter her dream?
+
+241
+00:13:42,446 --> 00:13:45,324
+Someone needs
+to help her realize she's dreaming.
+
+242
+00:13:45,407 --> 00:13:48,911
+{\an8}Use the dreamer as a pillow and...
+
+243
+00:13:56,210 --> 00:13:59,338
+<i>Right. I was trying to help Marcille.</i>
+
+244
+00:14:00,047 --> 00:14:01,924
+{\an8}I'm inside my own dream!
+
+245
+00:14:02,925 --> 00:14:05,094
+The Nightmare got an easy bite out of me.
+
+246
+00:14:05,177 --> 00:14:06,470
+It's always like this.
+
+247
+00:14:06,554 --> 00:14:08,722
+They sure know how to hit where it hurts!
+
+248
+00:14:09,306 --> 00:14:12,351
+But now that I know it's just a dream,
+I've got the upper hand.
+
+249
+00:14:12,434 --> 00:14:15,271
+Come forth, my mightiest servant!
+
+250
+00:14:20,192 --> 00:14:23,237
+<i>Now, I need to enter Marcille's dream.</i>
+
+251
+00:14:24,446 --> 00:14:26,365
+Since she's serving
+as my pillow right now,
+
+252
+00:14:26,866 --> 00:14:29,451
+I'll have to dig down.
+
+253
+00:14:33,539 --> 00:14:35,249
+This is the beauty of dreams.
+
+254
+00:14:35,332 --> 00:14:37,084
+This only works inside
+your own dream, though.
+
+255
+00:14:42,840 --> 00:14:43,799
+That was a close one.
+
+256
+00:14:44,383 --> 00:14:46,427
+That fall almost jolted me awake.
+
+257
+00:14:47,720 --> 00:14:50,764
+So this is what
+Marcille's dream looks like.
+
+258
+00:14:52,266 --> 00:14:53,893
+Pretty cool.
+
+259
+00:14:53,976 --> 00:14:55,144
+Is someone there?
+
+260
+00:14:55,644 --> 00:14:57,104
+What are you doing?
+
+261
+00:14:57,688 --> 00:14:59,940
+This place is dangerous.
+You need to get out fast.
+
+262
+00:15:01,567 --> 00:15:02,818
+Marcille?
+
+263
+00:15:02,902 --> 00:15:04,737
+W-Who are you?
+
+264
+00:15:04,820 --> 00:15:06,322
+It's me, Laios!
+
+265
+00:15:06,405 --> 00:15:08,824
+And we're inside your dream!
+
+266
+00:15:08,908 --> 00:15:11,827
+You need to wake up and...
+
+267
+00:15:11,911 --> 00:15:12,786
+A tremor?
+
+268
+00:15:13,954 --> 00:15:15,414
+It's coming!
+
+269
+00:15:15,497 --> 00:15:17,416
+W-We need to run!
+
+270
+00:15:17,499 --> 00:15:18,584
+What's coming?
+
+271
+00:15:18,667 --> 00:15:19,960
+Just follow me!
+
+272
+00:15:21,045 --> 00:15:24,214
+<i>It swallowed Papa and Pipi.</i>
+
+273
+00:15:24,298 --> 00:15:25,799
+<i>Papa and Pipi?</i>
+
+274
+00:15:26,884 --> 00:15:28,719
+<i>A dream about being chased, huh?</i>
+
+275
+00:15:28,802 --> 00:15:31,305
+<i>Those are pretty common, but nasty.</i>
+
+276
+00:15:32,306 --> 00:15:33,474
+<i>I remember Falin mentioning...</i>
+
+277
+00:15:34,224 --> 00:15:36,894
+Nightmares thrive on emotional scars.
+
+278
+00:15:37,811 --> 00:15:40,105
+Stressful events and trauma.
+
+279
+00:15:40,189 --> 00:15:44,026
+They trigger those memories
+and give people nightmares.
+
+280
+00:15:45,110 --> 00:15:48,197
+So all we have to do
+is shield their scars.
+
+281
+00:15:48,280 --> 00:15:49,281
+I see.
+
+282
+00:15:49,865 --> 00:15:50,699
+But...
+
+283
+00:15:51,325 --> 00:15:53,285
+It's dangerous, so don't try it.
+
+284
+00:15:53,369 --> 00:15:55,245
+All right. I got it!
+
+285
+00:15:55,329 --> 00:15:57,623
+I'll take it down for you!
+
+286
+00:15:58,207 --> 00:16:00,250
+{\an8}What are you doing? It's too risky!
+
+287
+00:16:00,334 --> 00:16:01,919
+{\an8}Don't worry.
+
+288
+00:16:02,002 --> 00:16:03,754
+I might not seem like it,
+but I'm actually...
+
+289
+00:16:15,724 --> 00:16:17,393
+What in the world is that?
+
+290
+00:16:17,476 --> 00:16:19,061
+How should I know?
+
+291
+00:16:19,645 --> 00:16:22,064
+<i>Is that what Marcille's afraid of?</i>
+
+292
+00:16:22,648 --> 00:16:24,733
+<i>It's quite a bit over the top,</i>
+
+293
+00:16:24,817 --> 00:16:27,319
+<i>but it does look like
+it'll be tough for me to take down.</i>
+
+294
+00:16:28,654 --> 00:16:31,657
+<i>It wouldn't be a threat if she realized
+this was all just a dream, though.</i>
+
+295
+00:16:32,825 --> 00:16:34,034
+We've come far enough.
+
+296
+00:16:34,910 --> 00:16:36,912
+Nowhere is safe.
+
+297
+00:16:37,913 --> 00:16:39,456
+Nobody stands a chance against it.
+
+298
+00:16:41,417 --> 00:16:42,501
+Don't worry.
+
+299
+00:16:42,584 --> 00:16:44,461
+Let's think of a way
+to take it down together.
+
+300
+00:16:45,921 --> 00:16:48,173
+<i>What is Marcille afraid of?</i>
+
+301
+00:16:48,799 --> 00:16:50,592
+<i>A monster, of course.</i>
+
+302
+00:16:51,427 --> 00:16:53,303
+<i>It crawls sluggishly,</i>
+
+303
+00:16:53,387 --> 00:16:55,973
+<i>has countless tentacles
+and an insatiable hunger,</i>
+
+304
+00:16:56,515 --> 00:16:57,933
+<i>and looks disgusting.</i>
+
+305
+00:16:58,726 --> 00:16:59,852
+<i>Is it some kind of insect?</i>
+
+306
+00:16:59,935 --> 00:17:03,397
+<i>But bugs that size are pretty rare.</i>
+
+307
+00:17:03,981 --> 00:17:05,858
+<i>Bugs...</i>
+
+308
+00:17:05,941 --> 00:17:07,109
+<i>That's it!</i>
+
+309
+00:17:07,192 --> 00:17:08,736
+It's a Wurm!
+
+310
+00:17:08,819 --> 00:17:10,612
+It's a Wurm from the Dragon family!
+
+311
+00:17:10,696 --> 00:17:13,615
+Its legs and eyes have degenerated,
+so it's more like a giant caterpillar.
+
+312
+00:17:13,699 --> 00:17:16,368
+It's voracious
+and devours anything living!
+
+313
+00:17:16,452 --> 00:17:18,370
+It's weak to fire and light!
+
+314
+00:17:18,454 --> 00:17:20,956
+Pretty classy choice!
+
+315
+00:17:21,749 --> 00:17:22,583
+Huh?
+
+316
+00:17:24,460 --> 00:17:25,586
+When did it...
+
+317
+00:17:26,670 --> 00:17:27,880
+Hold on!
+
+318
+00:17:28,839 --> 00:17:30,758
+R-Run!
+
+319
+00:17:31,300 --> 00:17:33,510
+Did that thing touch you?
+
+320
+00:17:33,594 --> 00:17:35,095
+Just a brush.
+
+321
+00:17:35,179 --> 00:17:36,013
+Show me!
+
+322
+00:17:39,725 --> 00:17:40,642
+What's this?
+
+323
+00:17:50,194 --> 00:17:51,028
+<i>Damn.</i>
+
+324
+00:17:51,111 --> 00:17:52,780
+<i>I frightened her even more!</i>
+
+325
+00:17:52,863 --> 00:17:55,032
+<i>It'll only make the Nightmare stronger.</i>
+
+326
+00:17:59,369 --> 00:18:01,288
+<i>What a potent poison.</i>
+
+327
+00:18:01,371 --> 00:18:03,957
+<i>What happens if you die
+in someone else's dream?</i>
+
+328
+00:18:04,625 --> 00:18:08,128
+<i>No, it wants us
+to feel anxious and scared.</i>
+
+329
+00:18:08,212 --> 00:18:10,047
+<i>I have to lift Marcille's spirits.</i>
+
+330
+00:18:10,130 --> 00:18:11,298
+Don't worry!
+
+331
+00:18:11,381 --> 00:18:13,509
+You can use magic!
+
+332
+00:18:13,592 --> 00:18:16,011
+You can take that thing down
+all by yourself!
+
+333
+00:18:17,012 --> 00:18:18,055
+Magic?
+
+334
+00:18:23,393 --> 00:18:25,354
+<i>The place is getting even more unstable.</i>
+
+335
+00:18:25,437 --> 00:18:27,189
+<i>Did I say something wrong?</i>
+
+336
+00:18:27,272 --> 00:18:28,315
+When...
+
+337
+00:18:28,899 --> 00:18:32,236
+When I tried to use magic to defeat it,
+
+338
+00:18:32,778 --> 00:18:35,405
+she ended up like this.
+
+339
+00:18:36,698 --> 00:18:37,699
+She?
+
+340
+00:18:37,783 --> 00:18:40,202
+Wait, is that Falin?
+
+341
+00:18:40,285 --> 00:18:41,954
+<i>I get it now.</i>
+
+342
+00:18:42,037 --> 00:18:44,081
+<i>Marcille feels guilty
+about Falin's transformation</i>
+
+343
+00:18:44,164 --> 00:18:46,041
+<i>due to her resurrection magic.</i>
+
+344
+00:18:46,125 --> 00:18:48,710
+<i>If she tried
+to defeat that thing, it means...</i>
+
+345
+00:18:48,794 --> 00:18:51,296
+<i>Marcille is afraid of death!</i>
+
+346
+00:18:51,797 --> 00:18:53,549
+I-It's coming back!
+
+347
+00:18:54,174 --> 00:18:56,593
+{\an8}Running won't solve anything.
+
+348
+00:18:56,677 --> 00:18:58,554
+{\an8}You have to face it head-on.
+
+349
+00:18:58,637 --> 00:18:59,596
+{\an8}What?
+
+350
+00:18:59,680 --> 00:19:02,933
+Don't worry.
+There's nothing for you to fear!
+
+351
+00:19:03,433 --> 00:19:05,853
+In the dungeon, even if you die,
+you can come back to life.
+
+352
+00:19:05,936 --> 00:19:09,356
+Even Falin is still alive
+thanks to your resurrection magic.
+
+353
+00:19:09,439 --> 00:19:11,650
+And you're used to seeing corpses, right?
+
+354
+00:19:11,733 --> 00:19:13,360
+What?!
+
+355
+00:19:18,657 --> 00:19:20,117
+{\an8}It's pulling me in!
+
+356
+00:19:20,200 --> 00:19:21,368
+{\an8}No!
+
+357
+00:19:21,451 --> 00:19:23,120
+{\an8}It's only pulling me!
+
+358
+00:19:23,203 --> 00:19:24,705
+Grab my hand!
+
+359
+00:19:28,083 --> 00:19:29,376
+<i>It's not poison.</i>
+
+360
+00:19:29,459 --> 00:19:32,129
+<i>I'm aging at an incredible rate.</i>
+
+361
+00:19:33,088 --> 00:19:34,631
+W-Wait a minute, Marcille.
+
+362
+00:19:34,715 --> 00:19:35,924
+I need to catch my breath.
+
+363
+00:19:36,967 --> 00:19:38,510
+<i>Something's not right.</i>
+
+364
+00:19:38,594 --> 00:19:41,263
+<i>Is there a creature capable of this?</i>
+
+365
+00:19:41,346 --> 00:19:43,724
+<i>Maybe it's not even a creature at all.</i>
+
+366
+00:19:43,807 --> 00:19:46,393
+So you won't come along with me either?
+
+367
+00:19:46,476 --> 00:19:49,354
+No, I can run again after a short rest.
+
+368
+00:19:49,438 --> 00:19:50,272
+You're lying!
+
+369
+00:19:50,355 --> 00:19:54,860
+Everyone who ran with me gave up,
+and they were all swallowed by that thing.
+
+370
+00:19:54,943 --> 00:19:58,363
+Papa, Pipi, Falin, everyone!
+
+371
+00:19:58,447 --> 00:20:01,700
+That's why I studied a lot of magic.
+
+372
+00:20:01,783 --> 00:20:05,037
+But if that's what turned Falin into this,
+
+373
+00:20:05,120 --> 00:20:07,289
+I don't know what to do.
+
+374
+00:20:08,749 --> 00:20:11,710
+Did your father pass away young?
+
+375
+00:20:12,336 --> 00:20:15,422
+At Papa's funeral, Mama told me
+
+376
+00:20:16,006 --> 00:20:19,051
+<i>that I run faster than everyone else.</i>
+
+377
+00:20:19,551 --> 00:20:23,472
+<i>That I'd have to watch
+a lot of people go away.</i>
+
+378
+00:20:24,014 --> 00:20:26,600
+By the way, is Pipi a relative of yours?
+
+379
+00:20:26,683 --> 00:20:27,684
+Pipi's a bird.
+
+380
+00:20:27,768 --> 00:20:28,810
+<i>I see.</i>
+
+381
+00:20:29,519 --> 00:20:32,606
+<i>Marcille isn't afraid of death.</i>
+
+382
+00:20:32,689 --> 00:20:36,026
+<i>She's worried that those she cares about
+will pass away before her.</i>
+
+383
+00:20:42,866 --> 00:20:44,201
+Marcille, calm down!
+
+384
+00:20:44,284 --> 00:20:47,204
+If you're scared,
+it'll just empower that thing.
+
+385
+00:20:47,287 --> 00:20:49,873
+But what am I supposed to do?
+
+386
+00:20:49,957 --> 00:20:51,083
+I can't do anything!
+
+387
+00:20:51,166 --> 00:20:52,709
+No, you can!
+
+388
+00:20:52,793 --> 00:20:55,212
+You're incredible, Marcille!
+
+389
+00:20:55,295 --> 00:20:57,714
+I mean, just look at all these books!
+
+390
+00:20:57,798 --> 00:21:00,300
+There was nothing like that in my dream!
+
+391
+00:21:00,801 --> 00:21:03,470
+You've been working tirelessly
+all this time!
+
+392
+00:21:03,553 --> 00:21:06,056
+Don't lose heart. Have faith in yourself!
+
+393
+00:21:06,556 --> 00:21:08,350
+You've got this, Marcille!
+
+394
+00:21:08,433 --> 00:21:10,352
+No, get up!
+
+395
+00:21:10,435 --> 00:21:11,812
+We have to run!
+
+396
+00:21:11,895 --> 00:21:12,980
+And besides,
+
+397
+00:21:13,063 --> 00:21:15,732
+{\an8}my magic isn't fully developed!
+
+398
+00:21:15,816 --> 00:21:18,235
+<i>If I had the same book he does,</i>
+
+399
+00:21:18,860 --> 00:21:21,530
+<i>I could use magic more effectively, but...</i>
+
+400
+00:21:21,613 --> 00:21:23,865
+Then wish for it!
+
+401
+00:21:23,949 --> 00:21:26,618
+If you wish hard enough,
+you can accomplish anything!
+
+402
+00:21:26,702 --> 00:21:29,746
+Don't be afraid!
+You can do better next time!
+
+403
+00:21:29,830 --> 00:21:31,373
+Don't give up!
+
+404
+00:21:31,957 --> 00:21:34,626
+No!
+
+405
+00:21:34,710 --> 00:21:36,628
+No!
+
+406
+00:21:44,594 --> 00:21:46,346
+That's it, Marcille!
+
+407
+00:21:46,430 --> 00:21:47,389
+Do it!
+
+408
+00:21:58,025 --> 00:22:01,236
+That's how you use it?!
+
+409
+00:22:05,073 --> 00:22:06,325
+You're awake.
+
+410
+00:22:06,408 --> 00:22:08,243
+You were both groaning in your sleep.
+
+411
+00:22:08,327 --> 00:22:09,369
+Are you okay?
+
+412
+00:22:09,453 --> 00:22:11,872
+I don't really remember.
+
+413
+00:22:11,955 --> 00:22:14,499
+It was an exhausting dream, though.
+
+414
+00:22:19,212 --> 00:22:20,213
+She's falling back asleep!
+
+415
+00:22:20,297 --> 00:22:22,382
+No! Wake up, Marcille!
+
+416
+00:22:23,800 --> 00:22:24,760
+My dream?
+
+417
+00:22:25,344 --> 00:22:26,636
+I don't remember much.
+
+418
+00:22:26,720 --> 00:22:29,598
+But I think it was a fun one.
+
+419
+00:22:29,681 --> 00:22:31,308
+Looks like it worked.
+
+420
+00:22:31,391 --> 00:22:32,893
+Did something happen?
+
+421
+00:22:32,976 --> 00:22:34,519
+Pass me your pillow.
+
+422
+00:22:34,603 --> 00:22:35,520
+Huh?
+
+423
+00:22:38,774 --> 00:22:39,608
+What are those?
+
+424
+00:22:39,691 --> 00:22:41,026
+Nightmares.
+
+425
+00:22:41,109 --> 00:22:44,696
+They hide in people's pillows
+and give them bad dreams.
+
+426
+00:22:45,363 --> 00:22:47,574
+There are so many of them.
+
+427
+00:22:47,657 --> 00:22:49,868
+They must have been
+nesting in your pillow for a while.
+
+428
+00:22:49,951 --> 00:22:50,786
+No way!
+
+429
+00:22:50,869 --> 00:22:52,662
+Senshi, are these edible?
+
+430
+00:22:52,746 --> 00:22:54,748
+I've always been curious
+about their flavor.
+
+431
+00:22:54,831 --> 00:22:56,208
+Yes, of course.
+
+432
+00:22:57,250 --> 00:22:59,169
+First, let's clean the gunk off.
+
+433
+00:23:00,754 --> 00:23:03,048
+If you soak them in hot water like this...
+
+434
+00:23:04,257 --> 00:23:07,135
+Nightmares, also known as Shen,
+
+435
+00:23:07,219 --> 00:23:09,012
+are actually related to Dragons.
+
+436
+00:23:09,096 --> 00:23:11,056
+If you look closely,
+they're a bit Dragon-like.
+
+437
+00:23:11,139 --> 00:23:12,432
+You're kidding me.
+
+438
+00:23:12,516 --> 00:23:16,269
+<i>Place the Nightmares in melted butter,</i>
+
+439
+00:23:16,353 --> 00:23:18,647
+<i>add some wine, and cover with a lid.</i>
+
+440
+00:23:22,025 --> 00:23:25,195
+<i>Finally, drizzle a bit
+of soy sauce over them,</i>
+
+441
+00:23:25,278 --> 00:23:26,696
+and it's done.
+
+442
+00:23:29,282 --> 00:23:30,283
+What's this?
+
+443
+00:23:31,368 --> 00:23:32,452
+That's me!
+
+444
+00:23:33,036 --> 00:23:36,039
+The dream that the Nightmares devoured
+turned into a mirage.
+
+445
+00:23:36,123 --> 00:23:38,708
+It's coming back to me.
+
+446
+00:23:38,792 --> 00:23:39,751
+Right,
+
+447
+00:23:39,835 --> 00:23:41,837
+I was running from something
+
+448
+00:23:41,920 --> 00:23:43,505
+<i>when a dog appeared.</i>
+
+449
+00:23:44,464 --> 00:23:47,968
+And we went on a treasure hunt together.
+
+450
+00:23:48,051 --> 00:23:50,303
+It was such a fun dream!
+
+451
+00:23:50,387 --> 00:23:52,305
+The dog seems a bit scruffy.
+
+452
+00:23:52,389 --> 00:23:53,974
+It looks dumb.
+
+453
+00:23:54,558 --> 00:23:55,684
+What's wrong, Laios?
+
+454
+00:23:56,226 --> 00:23:59,855
+I remember it being a silver wolf, but...
+
+455
+00:23:59,938 --> 00:24:01,189
+Never mind.
+
+456
+00:24:01,273 --> 00:24:04,192
+I'm glad if I helped in creating
+a fun dream for her.
+
+457
+00:25:40,121 --> 00:25:41,957
+{\an8}Subtitle translation by: Ai Matsuoka
+
