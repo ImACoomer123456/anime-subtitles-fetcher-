@@ -3,7 +3,7 @@ import shutil
 import re
 
 # Define the directory where your files and folders are located
-directory = r"D:\Projects\anime subtitles fetcher\subtitles"
+directory = r"D:\Projects\anime subtitles fetcher\subtitles\a sign of affection"
 
 # Regular expression to find episode numbers in filenames
 episode_regex = re.compile(r'S01E(\d{2})')

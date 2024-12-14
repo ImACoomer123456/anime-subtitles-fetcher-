@@ -96,9 +96,9 @@ def download_subtitles(download_page_url, download_path):
         print(f"Failed to download subtitle: {e}")
 
 # The search_url can be obtained from the first webpage of any specific show (usually shows a list of episodes / seasons)
-search_url = 'https://www.opensubtitles.org/en/ssearch/sublanguageid-all/idmovie-1463158'
+search_url = 'https://www.opensubtitles.org/en/search/sublanguageid-all/imdbid-30143506'
 target_uploader_name = 'tedi' 
-download_path = r'D:\Projects\anime subtitles fetcher\subtitles'  # Updated path as a raw string
+download_path = r'D:\Projects\anime subtitles fetcher\subtitles\a sign of affection'  # Updated path as a raw string
 
 os.makedirs(download_path, exist_ok=True)
 
