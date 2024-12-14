@@ -37,10 +37,16 @@ def get_subtitle_links_from_episode(episode_url, target_uploader_name):
                 # Skip rows that do not have enough columns
                 continue
 
+            # Check if the subtitle is in English
+            language_cell = cells[1]
+            language_tag = language_cell.find('a', title="English")
+            if not language_tag:
+                continue  # Skip if the language is not English
+
             # Find the uploader name in the last column
             uploader_tag = cells[-1].find('a', href=True, string=target_uploader_name)
             if uploader_tag:
-                print(f"Found subtitle by {target_uploader_name}")
+                print(f"Found English subtitle by {target_uploader_name}")
                 
                 # Locate the download link in the same row
                 download_tag = cells[0].find('a', {'class': 'bnone'})
@@ -53,8 +59,7 @@ def get_subtitle_links_from_episode(episode_url, target_uploader_name):
                     print(f"Download Page Link: {download_page_link}")
                 else:
                     print("No download button found in the first column for this subtitle.")
-                return subtitles
-    print("Subtitle not found for the given uploader.")
+    print("Finished checking for subtitles in this episode.")
     return subtitles
 
 def download_subtitles(download_page_url, download_path):
